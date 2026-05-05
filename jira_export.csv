@@ -1,0 +1,901 @@
+issue_key,issue_type,priority,assignee,component,status,status_changed_at,created_at
+PROJ-1000,Story,High,alice,infra,Backlog,2024-09-25 18:38:21,2024-09-25 18:38:21
+PROJ-1000,Story,High,alice,infra,In Progress,2024-09-25 23:23:35,2024-09-25 18:38:21
+PROJ-1000,Story,High,alice,infra,Code Review,2024-09-27 15:30:53,2024-09-25 18:38:21
+PROJ-1000,Story,High,alice,infra,QA,2024-10-01 06:43:06,2024-09-25 18:38:21
+PROJ-1000,Story,High,alice,infra,Done,2024-10-01 16:01:19,2024-09-25 18:38:21
+PROJ-1001,Bug,Medium,frank,backend,Backlog,2024-11-06 16:49:26,2024-11-06 16:49:26
+PROJ-1001,Bug,Medium,frank,backend,In Progress,2024-11-06 19:10:51,2024-11-06 16:49:26
+PROJ-1001,Bug,Medium,frank,backend,Code Review,2024-11-07 01:12:57,2024-11-06 16:49:26
+PROJ-1001,Bug,Medium,frank,backend,QA,2024-11-07 08:24:46,2024-11-06 16:49:26
+PROJ-1001,Bug,Medium,frank,backend,Done,2024-11-08 02:30:09,2024-11-06 16:49:26
+PROJ-1002,Story,Medium,alice,backend,Backlog,2024-10-12 23:08:56,2024-10-12 23:08:56
+PROJ-1002,Story,Medium,alice,backend,In Progress,2024-10-13 07:30:05,2024-10-12 23:08:56
+PROJ-1002,Story,Medium,alice,backend,Code Review,2024-10-14 02:16:35,2024-10-12 23:08:56
+PROJ-1002,Story,Medium,alice,backend,QA,2024-10-14 08:41:33,2024-10-12 23:08:56
+PROJ-1002,Story,Medium,alice,backend,Done,2024-10-15 14:43:15,2024-10-12 23:08:56
+PROJ-1003,Story,High,alice,frontend,Backlog,2024-09-24 14:08:21,2024-09-24 14:08:21
+PROJ-1003,Story,High,alice,frontend,In Progress,2024-09-25 05:25:50,2024-09-24 14:08:21
+PROJ-1003,Story,High,alice,frontend,Code Review,2024-09-25 12:17:41,2024-09-24 14:08:21
+PROJ-1003,Story,High,alice,frontend,QA,2024-09-25 22:18:30,2024-09-24 14:08:21
+PROJ-1003,Story,High,alice,frontend,Done,2024-09-26 01:55:45,2024-09-24 14:08:21
+PROJ-1004,Story,Medium,alice,backend,Backlog,2024-09-21 07:19:31,2024-09-21 07:19:31
+PROJ-1004,Story,Medium,alice,backend,In Progress,2024-09-21 11:13:38,2024-09-21 07:19:31
+PROJ-1004,Story,Medium,alice,backend,Code Review,2024-09-22 00:09:15,2024-09-21 07:19:31
+PROJ-1004,Story,Medium,alice,backend,QA,2024-09-22 17:27:54,2024-09-21 07:19:31
+PROJ-1004,Story,Medium,alice,backend,Done,2024-09-22 22:13:08,2024-09-21 07:19:31
+PROJ-1005,Story,Medium,dave,frontend,Backlog,2024-10-15 14:43:58,2024-10-15 14:43:58
+PROJ-1005,Story,Medium,dave,frontend,In Progress,2024-10-15 23:18:13,2024-10-15 14:43:58
+PROJ-1005,Story,Medium,dave,frontend,Code Review,2024-10-16 05:06:23,2024-10-15 14:43:58
+PROJ-1005,Story,Medium,dave,frontend,QA,2024-10-17 21:50:14,2024-10-15 14:43:58
+PROJ-1005,Story,Medium,dave,frontend,Done,2024-10-20 04:54:57,2024-10-15 14:43:58
+PROJ-1006,Story,Medium,frank,frontend,Backlog,2024-10-05 00:50:28,2024-10-05 00:50:28
+PROJ-1006,Story,Medium,frank,frontend,In Progress,2024-10-05 06:42:45,2024-10-05 00:50:28
+PROJ-1006,Story,Medium,frank,frontend,Code Review,2024-10-06 05:10:04,2024-10-05 00:50:28
+PROJ-1006,Story,Medium,frank,frontend,QA,2024-10-06 15:37:21,2024-10-05 00:50:28
+PROJ-1006,Story,Medium,frank,frontend,Done,2024-10-06 23:23:55,2024-10-05 00:50:28
+PROJ-1007,Task,Medium,bob,infra,Backlog,2024-09-11 22:10:01,2024-09-11 22:10:01
+PROJ-1007,Task,Medium,bob,infra,In Progress,2024-09-12 06:20:49,2024-09-11 22:10:01
+PROJ-1007,Task,Medium,bob,infra,Code Review,2024-09-12 10:55:03,2024-09-11 22:10:01
+PROJ-1007,Task,Medium,bob,infra,QA,2024-09-15 07:48:49,2024-09-11 22:10:01
+PROJ-1007,Task,Medium,bob,infra,Done,2024-09-15 11:18:33,2024-09-11 22:10:01
+PROJ-1008,Story,Low,alice,infra,Backlog,2024-11-23 06:48:18,2024-11-23 06:48:18
+PROJ-1008,Story,Low,alice,infra,In Progress,2024-11-23 08:20:35,2024-11-23 06:48:18
+PROJ-1008,Story,Low,alice,infra,Code Review,2024-11-25 00:01:38,2024-11-23 06:48:18
+PROJ-1008,Story,Low,alice,infra,QA,2024-12-02 17:49:03,2024-11-23 06:48:18
+PROJ-1008,Story,Low,alice,infra,Done,2024-12-03 09:02:10,2024-11-23 06:48:18
+PROJ-1009,Task,Medium,carol,backend,Backlog,2024-11-11 20:23:53,2024-11-11 20:23:53
+PROJ-1009,Task,Medium,carol,backend,In Progress,2024-11-12 00:18:15,2024-11-11 20:23:53
+PROJ-1009,Task,Medium,carol,backend,Code Review,2024-11-12 05:32:15,2024-11-11 20:23:53
+PROJ-1009,Task,Medium,carol,backend,QA,2024-11-13 10:35:33,2024-11-11 20:23:53
+PROJ-1009,Task,Medium,carol,backend,Done,2024-11-13 17:14:00,2024-11-11 20:23:53
+PROJ-1010,Bug,Medium,alice,frontend,Backlog,2024-09-09 15:37:03,2024-09-09 15:37:03
+PROJ-1010,Bug,Medium,alice,frontend,In Progress,2024-09-09 17:39:31,2024-09-09 15:37:03
+PROJ-1010,Bug,Medium,alice,frontend,Code Review,2024-09-10 05:51:40,2024-09-09 15:37:03
+PROJ-1010,Bug,Medium,alice,frontend,QA,2024-09-10 12:33:40,2024-09-09 15:37:03
+PROJ-1010,Bug,Medium,alice,frontend,Done,2024-09-11 09:45:52,2024-09-09 15:37:03
+PROJ-1011,Story,Medium,frank,backend,Backlog,2024-11-26 23:15:07,2024-11-26 23:15:07
+PROJ-1011,Story,Medium,frank,backend,In Progress,2024-11-27 02:38:51,2024-11-26 23:15:07
+PROJ-1011,Story,Medium,frank,backend,Code Review,2024-11-27 19:40:57,2024-11-26 23:15:07
+PROJ-1011,Story,Medium,frank,backend,QA,2024-11-28 09:09:12,2024-11-26 23:15:07
+PROJ-1011,Story,Medium,frank,backend,Done,2024-11-28 17:01:35,2024-11-26 23:15:07
+PROJ-1012,Task,Medium,bob,backend,Backlog,2024-09-06 10:46:42,2024-09-06 10:46:42
+PROJ-1012,Task,Medium,bob,backend,In Progress,2024-09-06 18:06:29,2024-09-06 10:46:42
+PROJ-1012,Task,Medium,bob,backend,Code Review,2024-09-07 00:33:38,2024-09-06 10:46:42
+PROJ-1012,Task,Medium,bob,backend,QA,2024-09-10 04:25:00,2024-09-06 10:46:42
+PROJ-1012,Task,Medium,bob,backend,Done,2024-09-10 18:21:17,2024-09-06 10:46:42
+PROJ-1013,Story,Medium,carol,backend,Backlog,2024-11-24 01:02:05,2024-11-24 01:02:05
+PROJ-1013,Story,Medium,carol,backend,In Progress,2024-11-25 00:28:31,2024-11-24 01:02:05
+PROJ-1013,Story,Medium,carol,backend,Code Review,2024-11-26 07:30:04,2024-11-24 01:02:05
+PROJ-1013,Story,Medium,carol,backend,QA,2024-11-27 07:43:20,2024-11-24 01:02:05
+PROJ-1013,Story,Medium,carol,backend,Done,2024-11-28 06:07:04,2024-11-24 01:02:05
+PROJ-1014,Bug,High,dave,infra,Backlog,2024-10-16 00:31:21,2024-10-16 00:31:21
+PROJ-1014,Bug,High,dave,infra,In Progress,2024-10-16 02:15:49,2024-10-16 00:31:21
+PROJ-1014,Bug,High,dave,infra,Code Review,2024-10-16 08:52:52,2024-10-16 00:31:21
+PROJ-1014,Bug,High,dave,infra,QA,2024-10-17 11:06:10,2024-10-16 00:31:21
+PROJ-1014,Bug,High,dave,infra,Done,2024-10-17 16:15:04,2024-10-16 00:31:21
+PROJ-1015,Story,Medium,bob,infra,Backlog,2024-10-06 11:50:26,2024-10-06 11:50:26
+PROJ-1015,Story,Medium,bob,infra,In Progress,2024-10-06 16:46:39,2024-10-06 11:50:26
+PROJ-1015,Story,Medium,bob,infra,Code Review,2024-10-07 00:34:34,2024-10-06 11:50:26
+PROJ-1015,Story,Medium,bob,infra,QA,2024-10-11 13:16:30,2024-10-06 11:50:26
+PROJ-1015,Story,Medium,bob,infra,Done,2024-10-13 23:49:59,2024-10-06 11:50:26
+PROJ-1016,Task,High,eve,frontend,Backlog,2024-10-23 20:38:10,2024-10-23 20:38:10
+PROJ-1016,Task,High,eve,frontend,In Progress,2024-10-24 00:16:28,2024-10-23 20:38:10
+PROJ-1016,Task,High,eve,frontend,Code Review,2024-10-24 13:39:48,2024-10-23 20:38:10
+PROJ-1016,Task,High,eve,frontend,QA,2024-10-24 22:42:04,2024-10-23 20:38:10
+PROJ-1016,Task,High,eve,frontend,Done,2024-10-27 17:19:52,2024-10-23 20:38:10
+PROJ-1017,Bug,Low,dave,infra,Backlog,2024-11-30 20:19:03,2024-11-30 20:19:03
+PROJ-1017,Bug,Low,dave,infra,In Progress,2024-11-30 21:56:14,2024-11-30 20:19:03
+PROJ-1017,Bug,Low,dave,infra,Code Review,2024-12-03 05:56:49,2024-11-30 20:19:03
+PROJ-1017,Bug,Low,dave,infra,QA,2024-12-07 04:57:44,2024-11-30 20:19:03
+PROJ-1017,Bug,Low,dave,infra,Done,2024-12-07 08:44:04,2024-11-30 20:19:03
+PROJ-1018,Story,Medium,bob,infra,Backlog,2024-11-22 19:59:14,2024-11-22 19:59:14
+PROJ-1018,Story,Medium,bob,infra,In Progress,2024-11-22 21:01:53,2024-11-22 19:59:14
+PROJ-1018,Story,Medium,bob,infra,Code Review,2024-11-23 21:18:37,2024-11-22 19:59:14
+PROJ-1018,Story,Medium,bob,infra,QA,2024-11-27 08:12:39,2024-11-22 19:59:14
+PROJ-1018,Story,Medium,bob,infra,Done,2024-11-27 20:39:22,2024-11-22 19:59:14
+PROJ-1019,Story,Medium,alice,infra,Backlog,2024-10-10 22:46:54,2024-10-10 22:46:54
+PROJ-1019,Story,Medium,alice,infra,In Progress,2024-10-11 11:35:00,2024-10-10 22:46:54
+PROJ-1019,Story,Medium,alice,infra,Code Review,2024-10-11 16:30:23,2024-10-10 22:46:54
+PROJ-1019,Story,Medium,alice,infra,QA,2024-10-13 13:48:48,2024-10-10 22:46:54
+PROJ-1019,Story,Medium,alice,infra,Done,2024-10-13 16:47:54,2024-10-10 22:46:54
+PROJ-1020,Task,High,bob,backend,Backlog,2024-11-26 02:05:04,2024-11-26 02:05:04
+PROJ-1020,Task,High,bob,backend,In Progress,2024-11-26 18:59:33,2024-11-26 02:05:04
+PROJ-1020,Task,High,bob,backend,Code Review,2024-11-27 10:42:29,2024-11-26 02:05:04
+PROJ-1020,Task,High,bob,backend,QA,2024-11-28 00:44:40,2024-11-26 02:05:04
+PROJ-1020,Task,High,bob,backend,Done,2024-11-28 03:16:12,2024-11-26 02:05:04
+PROJ-1021,Story,Medium,bob,frontend,Backlog,2024-10-10 09:53:20,2024-10-10 09:53:20
+PROJ-1021,Story,Medium,bob,frontend,In Progress,2024-10-10 13:52:07,2024-10-10 09:53:20
+PROJ-1021,Story,Medium,bob,frontend,Code Review,2024-10-10 22:35:18,2024-10-10 09:53:20
+PROJ-1021,Story,Medium,bob,frontend,QA,2024-10-12 06:44:45,2024-10-10 09:53:20
+PROJ-1021,Story,Medium,bob,frontend,Done,2024-10-12 16:51:54,2024-10-10 09:53:20
+PROJ-1022,Story,Low,bob,infra,Backlog,2024-09-15 13:21:44,2024-09-15 13:21:44
+PROJ-1022,Story,Low,bob,infra,In Progress,2024-09-16 07:49:12,2024-09-15 13:21:44
+PROJ-1022,Story,Low,bob,infra,Code Review,2024-09-16 19:29:20,2024-09-15 13:21:44
+PROJ-1022,Story,Low,bob,infra,QA,2024-09-18 01:36:10,2024-09-15 13:21:44
+PROJ-1022,Story,Low,bob,infra,Done,2024-09-18 13:35:45,2024-09-15 13:21:44
+PROJ-1023,Bug,Medium,eve,infra,Backlog,2024-11-13 12:40:06,2024-11-13 12:40:06
+PROJ-1023,Bug,Medium,eve,infra,In Progress,2024-11-14 01:06:41,2024-11-13 12:40:06
+PROJ-1023,Bug,Medium,eve,infra,Code Review,2024-11-14 14:59:53,2024-11-13 12:40:06
+PROJ-1023,Bug,Medium,eve,infra,QA,2024-11-18 13:44:41,2024-11-13 12:40:06
+PROJ-1023,Bug,Medium,eve,infra,Done,2024-11-18 21:11:28,2024-11-13 12:40:06
+PROJ-1024,Story,Low,eve,frontend,Backlog,2024-10-07 03:30:46,2024-10-07 03:30:46
+PROJ-1024,Story,Low,eve,frontend,In Progress,2024-10-07 10:25:48,2024-10-07 03:30:46
+PROJ-1024,Story,Low,eve,frontend,Code Review,2024-10-07 21:07:26,2024-10-07 03:30:46
+PROJ-1024,Story,Low,eve,frontend,QA,2024-10-08 03:38:20,2024-10-07 03:30:46
+PROJ-1024,Story,Low,eve,frontend,Done,2024-10-08 06:33:08,2024-10-07 03:30:46
+PROJ-1025,Bug,Medium,eve,frontend,Backlog,2024-09-10 19:50:03,2024-09-10 19:50:03
+PROJ-1025,Bug,Medium,eve,frontend,In Progress,2024-09-10 21:05:22,2024-09-10 19:50:03
+PROJ-1025,Bug,Medium,eve,frontend,Code Review,2024-09-11 13:13:49,2024-09-10 19:50:03
+PROJ-1025,Bug,Medium,eve,frontend,QA,2024-09-12 02:46:41,2024-09-10 19:50:03
+PROJ-1025,Bug,Medium,eve,frontend,Done,2024-09-12 10:27:42,2024-09-10 19:50:03
+PROJ-1026,Story,High,bob,frontend,Backlog,2024-11-17 21:40:43,2024-11-17 21:40:43
+PROJ-1026,Story,High,bob,frontend,In Progress,2024-11-18 17:43:43,2024-11-17 21:40:43
+PROJ-1026,Story,High,bob,frontend,Code Review,2024-11-19 01:10:10,2024-11-17 21:40:43
+PROJ-1026,Story,High,bob,frontend,QA,2024-11-19 17:44:06,2024-11-17 21:40:43
+PROJ-1026,Story,High,bob,frontend,Done,2024-11-20 07:00:18,2024-11-17 21:40:43
+PROJ-1027,Story,Low,eve,backend,Backlog,2024-10-09 08:34:22,2024-10-09 08:34:22
+PROJ-1027,Story,Low,eve,backend,In Progress,2024-10-09 11:39:04,2024-10-09 08:34:22
+PROJ-1027,Story,Low,eve,backend,Code Review,2024-10-09 16:36:44,2024-10-09 08:34:22
+PROJ-1027,Story,Low,eve,backend,QA,2024-10-10 05:27:18,2024-10-09 08:34:22
+PROJ-1027,Story,Low,eve,backend,Done,2024-10-10 08:51:42,2024-10-09 08:34:22
+PROJ-1028,Bug,Medium,dave,backend,Backlog,2024-09-26 09:50:14,2024-09-26 09:50:14
+PROJ-1028,Bug,Medium,dave,backend,In Progress,2024-09-27 08:04:36,2024-09-26 09:50:14
+PROJ-1028,Bug,Medium,dave,backend,Code Review,2024-09-28 07:53:14,2024-09-26 09:50:14
+PROJ-1028,Bug,Medium,dave,backend,QA,2024-10-01 16:05:49,2024-09-26 09:50:14
+PROJ-1028,Bug,Medium,dave,backend,Done,2024-10-02 10:30:33,2024-09-26 09:50:14
+PROJ-1029,Story,High,frank,backend,Backlog,2024-11-07 04:30:01,2024-11-07 04:30:01
+PROJ-1029,Story,High,frank,backend,In Progress,2024-11-07 18:31:26,2024-11-07 04:30:01
+PROJ-1029,Story,High,frank,backend,Code Review,2024-11-08 01:00:07,2024-11-07 04:30:01
+PROJ-1029,Story,High,frank,backend,QA,2024-11-10 03:37:05,2024-11-07 04:30:01
+PROJ-1029,Story,High,frank,backend,Done,2024-11-10 11:49:08,2024-11-07 04:30:01
+PROJ-1030,Story,Medium,frank,infra,Backlog,2024-09-12 19:56:07,2024-09-12 19:56:07
+PROJ-1030,Story,Medium,frank,infra,In Progress,2024-09-13 10:06:50,2024-09-12 19:56:07
+PROJ-1030,Story,Medium,frank,infra,Code Review,2024-09-14 17:17:05,2024-09-12 19:56:07
+PROJ-1030,Story,Medium,frank,infra,QA,2024-09-16 11:39:21,2024-09-12 19:56:07
+PROJ-1030,Story,Medium,frank,infra,Done,2024-09-16 14:35:19,2024-09-12 19:56:07
+PROJ-1031,Task,Low,bob,frontend,Backlog,2024-09-02 07:33:43,2024-09-02 07:33:43
+PROJ-1031,Task,Low,bob,frontend,In Progress,2024-09-02 10:37:53,2024-09-02 07:33:43
+PROJ-1031,Task,Low,bob,frontend,Code Review,2024-09-02 21:18:58,2024-09-02 07:33:43
+PROJ-1031,Task,Low,bob,frontend,QA,2024-09-04 13:23:33,2024-09-02 07:33:43
+PROJ-1031,Task,Low,bob,frontend,Done,2024-09-05 07:09:48,2024-09-02 07:33:43
+PROJ-1032,Story,Medium,eve,frontend,Backlog,2024-10-21 06:59:02,2024-10-21 06:59:02
+PROJ-1032,Story,Medium,eve,frontend,In Progress,2024-10-21 08:02:22,2024-10-21 06:59:02
+PROJ-1032,Story,Medium,eve,frontend,Code Review,2024-10-21 20:37:05,2024-10-21 06:59:02
+PROJ-1032,Story,Medium,eve,frontend,QA,2024-10-22 13:25:25,2024-10-21 06:59:02
+PROJ-1032,Story,Medium,eve,frontend,Done,2024-10-22 17:25:58,2024-10-21 06:59:02
+PROJ-1033,Story,Medium,frank,backend,Backlog,2024-10-31 03:00:12,2024-10-31 03:00:12
+PROJ-1033,Story,Medium,frank,backend,In Progress,2024-10-31 05:01:29,2024-10-31 03:00:12
+PROJ-1033,Story,Medium,frank,backend,Code Review,2024-10-31 13:58:03,2024-10-31 03:00:12
+PROJ-1033,Story,Medium,frank,backend,QA,2024-11-03 05:13:48,2024-10-31 03:00:12
+PROJ-1033,Story,Medium,frank,backend,Done,2024-11-03 10:21:11,2024-10-31 03:00:12
+PROJ-1034,Bug,Medium,carol,frontend,Backlog,2024-10-24 08:50:39,2024-10-24 08:50:39
+PROJ-1034,Bug,Medium,carol,frontend,In Progress,2024-10-24 15:41:44,2024-10-24 08:50:39
+PROJ-1034,Bug,Medium,carol,frontend,Code Review,2024-10-25 10:15:53,2024-10-24 08:50:39
+PROJ-1034,Bug,Medium,carol,frontend,QA,2024-10-26 01:18:15,2024-10-24 08:50:39
+PROJ-1034,Bug,Medium,carol,frontend,Done,2024-10-27 07:50:48,2024-10-24 08:50:39
+PROJ-1035,Story,High,eve,infra,Backlog,2024-10-19 10:32:01,2024-10-19 10:32:01
+PROJ-1035,Story,High,eve,infra,In Progress,2024-10-20 13:47:22,2024-10-19 10:32:01
+PROJ-1035,Story,High,eve,infra,Code Review,2024-10-20 21:16:13,2024-10-19 10:32:01
+PROJ-1035,Story,High,eve,infra,QA,2024-10-23 06:16:41,2024-10-19 10:32:01
+PROJ-1035,Story,High,eve,infra,Done,2024-10-23 11:08:29,2024-10-19 10:32:01
+PROJ-1036,Story,High,carol,infra,Backlog,2024-09-25 05:57:51,2024-09-25 05:57:51
+PROJ-1036,Story,High,carol,infra,In Progress,2024-09-25 09:38:46,2024-09-25 05:57:51
+PROJ-1036,Story,High,carol,infra,Code Review,2024-09-25 14:05:49,2024-09-25 05:57:51
+PROJ-1036,Story,High,carol,infra,QA,2024-09-28 11:14:26,2024-09-25 05:57:51
+PROJ-1036,Story,High,carol,infra,Done,2024-09-28 18:49:44,2024-09-25 05:57:51
+PROJ-1037,Story,Medium,eve,backend,Backlog,2024-09-10 07:35:13,2024-09-10 07:35:13
+PROJ-1037,Story,Medium,eve,backend,In Progress,2024-09-10 09:00:35,2024-09-10 07:35:13
+PROJ-1037,Story,Medium,eve,backend,Code Review,2024-09-10 16:55:45,2024-09-10 07:35:13
+PROJ-1037,Story,Medium,eve,backend,QA,2024-09-12 22:42:23,2024-09-10 07:35:13
+PROJ-1037,Story,Medium,eve,backend,Done,2024-09-15 06:36:28,2024-09-10 07:35:13
+PROJ-1038,Story,Medium,bob,frontend,Backlog,2024-11-05 01:19:51,2024-11-05 01:19:51
+PROJ-1038,Story,Medium,bob,frontend,In Progress,2024-11-05 03:34:59,2024-11-05 01:19:51
+PROJ-1038,Story,Medium,bob,frontend,Code Review,2024-11-05 15:39:01,2024-11-05 01:19:51
+PROJ-1038,Story,Medium,bob,frontend,QA,2024-11-09 10:31:51,2024-11-05 01:19:51
+PROJ-1038,Story,Medium,bob,frontend,Done,2024-11-09 14:44:53,2024-11-05 01:19:51
+PROJ-1039,Bug,Medium,bob,infra,Backlog,2024-10-23 05:34:08,2024-10-23 05:34:08
+PROJ-1039,Bug,Medium,bob,infra,In Progress,2024-10-23 15:29:24,2024-10-23 05:34:08
+PROJ-1039,Bug,Medium,bob,infra,Code Review,2024-10-24 12:41:48,2024-10-23 05:34:08
+PROJ-1039,Bug,Medium,bob,infra,QA,2024-10-26 01:43:14,2024-10-23 05:34:08
+PROJ-1039,Bug,Medium,bob,infra,Done,2024-10-26 14:08:33,2024-10-23 05:34:08
+PROJ-1040,Story,Low,bob,backend,Backlog,2024-11-14 07:53:43,2024-11-14 07:53:43
+PROJ-1040,Story,Low,bob,backend,In Progress,2024-11-14 12:33:48,2024-11-14 07:53:43
+PROJ-1040,Story,Low,bob,backend,Code Review,2024-11-15 04:34:10,2024-11-14 07:53:43
+PROJ-1040,Story,Low,bob,backend,QA,2024-11-16 06:38:46,2024-11-14 07:53:43
+PROJ-1040,Story,Low,bob,backend,Done,2024-11-16 14:47:07,2024-11-14 07:53:43
+PROJ-1041,Story,Medium,frank,infra,Backlog,2024-10-10 17:43:09,2024-10-10 17:43:09
+PROJ-1041,Story,Medium,frank,infra,In Progress,2024-10-10 19:28:34,2024-10-10 17:43:09
+PROJ-1041,Story,Medium,frank,infra,Code Review,2024-10-11 21:07:11,2024-10-10 17:43:09
+PROJ-1041,Story,Medium,frank,infra,QA,2024-10-13 15:41:12,2024-10-10 17:43:09
+PROJ-1041,Story,Medium,frank,infra,Done,2024-10-13 19:20:17,2024-10-10 17:43:09
+PROJ-1042,Story,Medium,dave,backend,Backlog,2024-10-15 20:02:20,2024-10-15 20:02:20
+PROJ-1042,Story,Medium,dave,backend,In Progress,2024-10-15 21:22:18,2024-10-15 20:02:20
+PROJ-1042,Story,Medium,dave,backend,Code Review,2024-10-16 12:05:50,2024-10-15 20:02:20
+PROJ-1042,Story,Medium,dave,backend,QA,2024-10-20 04:00:30,2024-10-15 20:02:20
+PROJ-1042,Story,Medium,dave,backend,Done,2024-10-20 06:08:31,2024-10-15 20:02:20
+PROJ-1043,Story,Medium,bob,backend,Backlog,2024-10-04 19:47:47,2024-10-04 19:47:47
+PROJ-1043,Story,Medium,bob,backend,In Progress,2024-10-05 02:32:14,2024-10-04 19:47:47
+PROJ-1043,Story,Medium,bob,backend,Code Review,2024-10-05 09:37:09,2024-10-04 19:47:47
+PROJ-1043,Story,Medium,bob,backend,QA,2024-10-06 12:20:30,2024-10-04 19:47:47
+PROJ-1043,Story,Medium,bob,backend,Done,2024-10-06 15:52:28,2024-10-04 19:47:47
+PROJ-1044,Story,Medium,eve,frontend,Backlog,2024-10-29 03:09:53,2024-10-29 03:09:53
+PROJ-1044,Story,Medium,eve,frontend,In Progress,2024-10-29 13:33:30,2024-10-29 03:09:53
+PROJ-1044,Story,Medium,eve,frontend,Code Review,2024-10-29 23:25:33,2024-10-29 03:09:53
+PROJ-1044,Story,Medium,eve,frontend,QA,2024-11-01 12:37:58,2024-10-29 03:09:53
+PROJ-1044,Story,Medium,eve,frontend,Done,2024-11-03 21:06:05,2024-10-29 03:09:53
+PROJ-1045,Story,High,bob,backend,Backlog,2024-11-28 21:46:53,2024-11-28 21:46:53
+PROJ-1045,Story,High,bob,backend,In Progress,2024-11-29 02:07:06,2024-11-28 21:46:53
+PROJ-1045,Story,High,bob,backend,Code Review,2024-11-29 07:33:49,2024-11-28 21:46:53
+PROJ-1045,Story,High,bob,backend,QA,2024-12-01 17:17:15,2024-11-28 21:46:53
+PROJ-1045,Story,High,bob,backend,Done,2024-12-02 12:04:27,2024-11-28 21:46:53
+PROJ-1046,Story,Medium,alice,backend,Backlog,2024-09-25 02:35:27,2024-09-25 02:35:27
+PROJ-1046,Story,Medium,alice,backend,In Progress,2024-09-25 05:58:38,2024-09-25 02:35:27
+PROJ-1046,Story,Medium,alice,backend,Code Review,2024-09-25 22:55:21,2024-09-25 02:35:27
+PROJ-1046,Story,Medium,alice,backend,QA,2024-09-27 14:54:44,2024-09-25 02:35:27
+PROJ-1046,Story,Medium,alice,backend,Done,2024-09-30 06:04:36,2024-09-25 02:35:27
+PROJ-1047,Bug,Medium,eve,frontend,Backlog,2024-11-11 05:32:01,2024-11-11 05:32:01
+PROJ-1047,Bug,Medium,eve,frontend,In Progress,2024-11-11 12:34:04,2024-11-11 05:32:01
+PROJ-1047,Bug,Medium,eve,frontend,Code Review,2024-11-11 19:53:25,2024-11-11 05:32:01
+PROJ-1047,Bug,Medium,eve,frontend,QA,2024-11-12 03:50:41,2024-11-11 05:32:01
+PROJ-1047,Bug,Medium,eve,frontend,Done,2024-11-13 00:02:45,2024-11-11 05:32:01
+PROJ-1048,Story,Medium,dave,frontend,Backlog,2024-11-17 04:17:44,2024-11-17 04:17:44
+PROJ-1048,Story,Medium,dave,frontend,In Progress,2024-11-17 23:44:59,2024-11-17 04:17:44
+PROJ-1048,Story,Medium,dave,frontend,Code Review,2024-11-18 15:46:54,2024-11-17 04:17:44
+PROJ-1048,Story,Medium,dave,frontend,QA,2024-11-20 12:37:28,2024-11-17 04:17:44
+PROJ-1048,Story,Medium,dave,frontend,Done,2024-11-20 18:03:40,2024-11-17 04:17:44
+PROJ-1049,Bug,Low,bob,backend,Backlog,2024-09-11 09:51:54,2024-09-11 09:51:54
+PROJ-1049,Bug,Low,bob,backend,In Progress,2024-09-11 21:13:14,2024-09-11 09:51:54
+PROJ-1049,Bug,Low,bob,backend,Code Review,2024-09-13 04:30:35,2024-09-11 09:51:54
+PROJ-1049,Bug,Low,bob,backend,QA,2024-09-15 06:07:57,2024-09-11 09:51:54
+PROJ-1049,Bug,Low,bob,backend,Done,2024-09-15 20:14:27,2024-09-11 09:51:54
+PROJ-1050,Story,Low,carol,frontend,Backlog,2024-10-11 21:56:15,2024-10-11 21:56:15
+PROJ-1050,Story,Low,carol,frontend,In Progress,2024-10-12 07:09:21,2024-10-11 21:56:15
+PROJ-1050,Story,Low,carol,frontend,Code Review,2024-10-12 12:12:38,2024-10-11 21:56:15
+PROJ-1050,Story,Low,carol,frontend,QA,2024-10-12 21:44:11,2024-10-11 21:56:15
+PROJ-1050,Story,Low,carol,frontend,Done,2024-10-13 18:02:32,2024-10-11 21:56:15
+PROJ-1051,Bug,High,frank,backend,Backlog,2024-09-07 21:14:15,2024-09-07 21:14:15
+PROJ-1051,Bug,High,frank,backend,In Progress,2024-09-08 05:41:50,2024-09-07 21:14:15
+PROJ-1051,Bug,High,frank,backend,Code Review,2024-09-08 09:48:29,2024-09-07 21:14:15
+PROJ-1051,Bug,High,frank,backend,QA,2024-09-08 17:56:53,2024-09-07 21:14:15
+PROJ-1051,Bug,High,frank,backend,Done,2024-09-09 04:39:41,2024-09-07 21:14:15
+PROJ-1052,Bug,Medium,alice,frontend,Backlog,2024-09-20 14:26:14,2024-09-20 14:26:14
+PROJ-1052,Bug,Medium,alice,frontend,In Progress,2024-09-20 15:28:40,2024-09-20 14:26:14
+PROJ-1052,Bug,Medium,alice,frontend,Code Review,2024-09-20 21:34:53,2024-09-20 14:26:14
+PROJ-1052,Bug,Medium,alice,frontend,QA,2024-09-21 19:29:44,2024-09-20 14:26:14
+PROJ-1052,Bug,Medium,alice,frontend,Done,2024-09-22 06:54:50,2024-09-20 14:26:14
+PROJ-1053,Bug,Medium,dave,frontend,Backlog,2024-10-12 23:03:19,2024-10-12 23:03:19
+PROJ-1053,Bug,Medium,dave,frontend,In Progress,2024-10-13 08:29:55,2024-10-12 23:03:19
+PROJ-1053,Bug,Medium,dave,frontend,Code Review,2024-10-13 15:32:46,2024-10-12 23:03:19
+PROJ-1053,Bug,Medium,dave,frontend,QA,2024-10-17 14:16:16,2024-10-12 23:03:19
+PROJ-1053,Bug,Medium,dave,frontend,Done,2024-10-19 13:22:25,2024-10-12 23:03:19
+PROJ-1054,Bug,Medium,alice,frontend,Backlog,2024-11-19 10:49:41,2024-11-19 10:49:41
+PROJ-1054,Bug,Medium,alice,frontend,In Progress,2024-11-19 14:58:37,2024-11-19 10:49:41
+PROJ-1054,Bug,Medium,alice,frontend,Code Review,2024-11-20 11:26:43,2024-11-19 10:49:41
+PROJ-1054,Bug,Medium,alice,frontend,QA,2024-11-21 14:25:15,2024-11-19 10:49:41
+PROJ-1054,Bug,Medium,alice,frontend,Done,2024-11-24 13:20:17,2024-11-19 10:49:41
+PROJ-1055,Story,High,alice,backend,Backlog,2024-11-22 04:05:07,2024-11-22 04:05:07
+PROJ-1055,Story,High,alice,backend,In Progress,2024-11-22 13:39:35,2024-11-22 04:05:07
+PROJ-1055,Story,High,alice,backend,Code Review,2024-11-23 03:44:25,2024-11-22 04:05:07
+PROJ-1055,Story,High,alice,backend,QA,2024-11-23 11:42:26,2024-11-22 04:05:07
+PROJ-1055,Story,High,alice,backend,Done,2024-11-23 17:22:29,2024-11-22 04:05:07
+PROJ-1056,Story,High,bob,frontend,Backlog,2024-10-11 11:00:48,2024-10-11 11:00:48
+PROJ-1056,Story,High,bob,frontend,In Progress,2024-10-11 14:28:43,2024-10-11 11:00:48
+PROJ-1056,Story,High,bob,frontend,Code Review,2024-10-11 21:50:06,2024-10-11 11:00:48
+PROJ-1056,Story,High,bob,frontend,QA,2024-10-15 04:04:52,2024-10-11 11:00:48
+PROJ-1056,Story,High,bob,frontend,Done,2024-10-15 10:04:34,2024-10-11 11:00:48
+PROJ-1057,Bug,Low,bob,frontend,Backlog,2024-11-28 14:50:39,2024-11-28 14:50:39
+PROJ-1057,Bug,Low,bob,frontend,In Progress,2024-11-29 09:39:09,2024-11-28 14:50:39
+PROJ-1057,Bug,Low,bob,frontend,Code Review,2024-11-30 01:37:14,2024-11-28 14:50:39
+PROJ-1057,Bug,Low,bob,frontend,QA,2024-12-01 15:17:49,2024-11-28 14:50:39
+PROJ-1057,Bug,Low,bob,frontend,Done,2024-12-01 22:53:04,2024-11-28 14:50:39
+PROJ-1058,Story,Medium,dave,backend,Backlog,2024-10-09 21:44:55,2024-10-09 21:44:55
+PROJ-1058,Story,Medium,dave,backend,In Progress,2024-10-10 05:37:47,2024-10-09 21:44:55
+PROJ-1058,Story,Medium,dave,backend,Code Review,2024-10-10 17:46:09,2024-10-09 21:44:55
+PROJ-1058,Story,Medium,dave,backend,QA,2024-10-12 02:48:08,2024-10-09 21:44:55
+PROJ-1058,Story,Medium,dave,backend,Done,2024-10-12 15:03:22,2024-10-09 21:44:55
+PROJ-1059,Task,Low,carol,frontend,Backlog,2024-11-08 15:10:33,2024-11-08 15:10:33
+PROJ-1059,Task,Low,carol,frontend,In Progress,2024-11-08 18:48:44,2024-11-08 15:10:33
+PROJ-1059,Task,Low,carol,frontend,Code Review,2024-11-08 23:06:28,2024-11-08 15:10:33
+PROJ-1059,Task,Low,carol,frontend,QA,2024-11-10 01:50:50,2024-11-08 15:10:33
+PROJ-1059,Task,Low,carol,frontend,Done,2024-11-10 05:24:24,2024-11-08 15:10:33
+PROJ-1060,Story,Medium,frank,frontend,Backlog,2024-09-17 00:42:09,2024-09-17 00:42:09
+PROJ-1060,Story,Medium,frank,frontend,In Progress,2024-09-18 00:16:16,2024-09-17 00:42:09
+PROJ-1060,Story,Medium,frank,frontend,Code Review,2024-09-19 17:12:06,2024-09-17 00:42:09
+PROJ-1060,Story,Medium,frank,frontend,QA,2024-09-22 00:28:19,2024-09-17 00:42:09
+PROJ-1060,Story,Medium,frank,frontend,Done,2024-09-22 06:10:13,2024-09-17 00:42:09
+PROJ-1061,Bug,Medium,bob,backend,Backlog,2024-10-28 05:35:16,2024-10-28 05:35:16
+PROJ-1061,Bug,Medium,bob,backend,In Progress,2024-10-28 06:42:44,2024-10-28 05:35:16
+PROJ-1061,Bug,Medium,bob,backend,Code Review,2024-10-29 18:20:19,2024-10-28 05:35:16
+PROJ-1061,Bug,Medium,bob,backend,QA,2024-10-30 11:31:02,2024-10-28 05:35:16
+PROJ-1061,Bug,Medium,bob,backend,Done,2024-10-31 16:43:27,2024-10-28 05:35:16
+PROJ-1062,Story,Medium,alice,infra,Backlog,2024-09-07 13:12:17,2024-09-07 13:12:17
+PROJ-1062,Story,Medium,alice,infra,In Progress,2024-09-08 16:42:52,2024-09-07 13:12:17
+PROJ-1062,Story,Medium,alice,infra,Code Review,2024-09-09 19:43:23,2024-09-07 13:12:17
+PROJ-1062,Story,Medium,alice,infra,QA,2024-09-11 12:27:52,2024-09-07 13:12:17
+PROJ-1062,Story,Medium,alice,infra,Done,2024-09-11 18:21:17,2024-09-07 13:12:17
+PROJ-1063,Story,Medium,dave,backend,Backlog,2024-11-30 06:19:38,2024-11-30 06:19:38
+PROJ-1063,Story,Medium,dave,backend,In Progress,2024-11-30 22:33:54,2024-11-30 06:19:38
+PROJ-1063,Story,Medium,dave,backend,Code Review,2024-12-01 07:08:19,2024-11-30 06:19:38
+PROJ-1063,Story,Medium,dave,backend,QA,2024-12-02 14:16:54,2024-11-30 06:19:38
+PROJ-1063,Story,Medium,dave,backend,Done,2024-12-02 22:47:30,2024-11-30 06:19:38
+PROJ-1064,Story,Medium,alice,backend,Backlog,2024-09-09 18:40:23,2024-09-09 18:40:23
+PROJ-1064,Story,Medium,alice,backend,In Progress,2024-09-10 17:41:00,2024-09-09 18:40:23
+PROJ-1064,Story,Medium,alice,backend,Code Review,2024-09-11 11:58:23,2024-09-09 18:40:23
+PROJ-1064,Story,Medium,alice,backend,QA,2024-09-12 10:51:20,2024-09-09 18:40:23
+PROJ-1064,Story,Medium,alice,backend,Done,2024-09-12 13:40:24,2024-09-09 18:40:23
+PROJ-1065,Bug,High,eve,backend,Backlog,2024-11-06 13:21:33,2024-11-06 13:21:33
+PROJ-1065,Bug,High,eve,backend,In Progress,2024-11-06 21:59:43,2024-11-06 13:21:33
+PROJ-1065,Bug,High,eve,backend,Code Review,2024-11-09 09:19:20,2024-11-06 13:21:33
+PROJ-1065,Bug,High,eve,backend,QA,2024-11-09 18:20:26,2024-11-06 13:21:33
+PROJ-1065,Bug,High,eve,backend,Done,2024-11-10 02:11:04,2024-11-06 13:21:33
+PROJ-1066,Bug,Low,alice,backend,Backlog,2024-09-25 21:43:24,2024-09-25 21:43:24
+PROJ-1066,Bug,Low,alice,backend,In Progress,2024-09-26 15:30:43,2024-09-25 21:43:24
+PROJ-1066,Bug,Low,alice,backend,Code Review,2024-09-27 11:42:45,2024-09-25 21:43:24
+PROJ-1066,Bug,Low,alice,backend,QA,2024-09-28 17:35:38,2024-09-25 21:43:24
+PROJ-1066,Bug,Low,alice,backend,Done,2024-09-29 05:17:32,2024-09-25 21:43:24
+PROJ-1067,Story,Medium,alice,backend,Backlog,2024-09-09 23:02:06,2024-09-09 23:02:06
+PROJ-1067,Story,Medium,alice,backend,In Progress,2024-09-10 03:35:56,2024-09-09 23:02:06
+PROJ-1067,Story,Medium,alice,backend,Code Review,2024-09-10 11:46:10,2024-09-09 23:02:06
+PROJ-1067,Story,Medium,alice,backend,QA,2024-09-12 02:55:01,2024-09-09 23:02:06
+PROJ-1067,Story,Medium,alice,backend,Done,2024-09-12 18:12:28,2024-09-09 23:02:06
+PROJ-1068,Bug,Medium,eve,backend,Backlog,2024-10-02 17:11:42,2024-10-02 17:11:42
+PROJ-1068,Bug,Medium,eve,backend,In Progress,2024-10-03 10:20:18,2024-10-02 17:11:42
+PROJ-1068,Bug,Medium,eve,backend,Code Review,2024-10-04 19:40:26,2024-10-02 17:11:42
+PROJ-1068,Bug,Medium,eve,backend,QA,2024-10-05 15:59:45,2024-10-02 17:11:42
+PROJ-1068,Bug,Medium,eve,backend,Done,2024-10-05 23:33:55,2024-10-02 17:11:42
+PROJ-1069,Task,Medium,frank,infra,Backlog,2024-09-25 04:10:42,2024-09-25 04:10:42
+PROJ-1069,Task,Medium,frank,infra,In Progress,2024-09-25 17:59:09,2024-09-25 04:10:42
+PROJ-1069,Task,Medium,frank,infra,Code Review,2024-09-26 10:34:57,2024-09-25 04:10:42
+PROJ-1069,Task,Medium,frank,infra,QA,2024-09-29 20:41:20,2024-09-25 04:10:42
+PROJ-1069,Task,Medium,frank,infra,Done,2024-09-30 11:23:52,2024-09-25 04:10:42
+PROJ-1070,Task,Low,bob,infra,Backlog,2024-10-16 09:24:37,2024-10-16 09:24:37
+PROJ-1070,Task,Low,bob,infra,In Progress,2024-10-17 04:04:07,2024-10-16 09:24:37
+PROJ-1070,Task,Low,bob,infra,Code Review,2024-10-17 13:01:07,2024-10-16 09:24:37
+PROJ-1070,Task,Low,bob,infra,QA,2024-10-19 11:37:25,2024-10-16 09:24:37
+PROJ-1070,Task,Low,bob,infra,Done,2024-10-19 14:24:47,2024-10-16 09:24:37
+PROJ-1071,Task,High,alice,frontend,Backlog,2024-11-01 07:24:21,2024-11-01 07:24:21
+PROJ-1071,Task,High,alice,frontend,In Progress,2024-11-01 15:18:47,2024-11-01 07:24:21
+PROJ-1071,Task,High,alice,frontend,Code Review,2024-11-01 19:45:08,2024-11-01 07:24:21
+PROJ-1071,Task,High,alice,frontend,QA,2024-11-02 14:17:04,2024-11-01 07:24:21
+PROJ-1071,Task,High,alice,frontend,Done,2024-11-02 22:32:34,2024-11-01 07:24:21
+PROJ-1072,Story,High,alice,backend,Backlog,2024-09-22 16:41:07,2024-09-22 16:41:07
+PROJ-1072,Story,High,alice,backend,In Progress,2024-09-22 20:23:10,2024-09-22 16:41:07
+PROJ-1072,Story,High,alice,backend,Code Review,2024-09-23 11:06:35,2024-09-22 16:41:07
+PROJ-1072,Story,High,alice,backend,QA,2024-09-23 17:43:45,2024-09-22 16:41:07
+PROJ-1072,Story,High,alice,backend,Done,2024-09-23 20:02:02,2024-09-22 16:41:07
+PROJ-1073,Story,Medium,bob,infra,Backlog,2024-11-26 12:33:44,2024-11-26 12:33:44
+PROJ-1073,Story,Medium,bob,infra,In Progress,2024-11-27 03:23:49,2024-11-26 12:33:44
+PROJ-1073,Story,Medium,bob,infra,Code Review,2024-11-27 12:45:21,2024-11-26 12:33:44
+PROJ-1073,Story,Medium,bob,infra,QA,2024-11-28 19:16:43,2024-11-26 12:33:44
+PROJ-1073,Story,Medium,bob,infra,Done,2024-11-30 20:17:19,2024-11-26 12:33:44
+PROJ-1074,Bug,Medium,carol,frontend,Backlog,2024-10-14 13:02:38,2024-10-14 13:02:38
+PROJ-1074,Bug,Medium,carol,frontend,In Progress,2024-10-15 01:48:03,2024-10-14 13:02:38
+PROJ-1074,Bug,Medium,carol,frontend,Code Review,2024-10-15 08:43:06,2024-10-14 13:02:38
+PROJ-1074,Bug,Medium,carol,frontend,QA,2024-10-16 10:13:22,2024-10-14 13:02:38
+PROJ-1074,Bug,Medium,carol,frontend,Done,2024-10-16 12:56:11,2024-10-14 13:02:38
+PROJ-1075,Story,Medium,eve,backend,Backlog,2024-09-02 18:13:44,2024-09-02 18:13:44
+PROJ-1075,Story,Medium,eve,backend,In Progress,2024-09-02 19:39:12,2024-09-02 18:13:44
+PROJ-1075,Story,Medium,eve,backend,Code Review,2024-09-03 08:44:53,2024-09-02 18:13:44
+PROJ-1075,Story,Medium,eve,backend,QA,2024-09-04 06:18:23,2024-09-02 18:13:44
+PROJ-1075,Story,Medium,eve,backend,Done,2024-09-04 16:25:22,2024-09-02 18:13:44
+PROJ-1076,Story,Medium,carol,backend,Backlog,2024-12-02 03:51:55,2024-12-02 03:51:55
+PROJ-1076,Story,Medium,carol,backend,In Progress,2024-12-02 15:13:29,2024-12-02 03:51:55
+PROJ-1076,Story,Medium,carol,backend,Code Review,2024-12-04 15:54:27,2024-12-02 03:51:55
+PROJ-1076,Story,Medium,carol,backend,QA,2024-12-05 12:26:00,2024-12-02 03:51:55
+PROJ-1076,Story,Medium,carol,backend,Done,2024-12-05 17:33:13,2024-12-02 03:51:55
+PROJ-1077,Bug,Medium,alice,backend,Backlog,2024-11-13 01:57:22,2024-11-13 01:57:22
+PROJ-1077,Bug,Medium,alice,backend,In Progress,2024-11-13 15:38:28,2024-11-13 01:57:22
+PROJ-1077,Bug,Medium,alice,backend,Code Review,2024-11-13 23:25:53,2024-11-13 01:57:22
+PROJ-1077,Bug,Medium,alice,backend,QA,2024-11-14 16:59:28,2024-11-13 01:57:22
+PROJ-1077,Bug,Medium,alice,backend,Done,2024-11-16 20:29:47,2024-11-13 01:57:22
+PROJ-1078,Task,Medium,eve,frontend,Backlog,2024-11-10 16:09:27,2024-11-10 16:09:27
+PROJ-1078,Task,Medium,eve,frontend,In Progress,2024-11-10 17:21:46,2024-11-10 16:09:27
+PROJ-1078,Task,Medium,eve,frontend,Code Review,2024-11-12 12:48:41,2024-11-10 16:09:27
+PROJ-1078,Task,Medium,eve,frontend,QA,2024-11-14 06:58:00,2024-11-10 16:09:27
+PROJ-1078,Task,Medium,eve,frontend,Done,2024-11-14 18:29:31,2024-11-10 16:09:27
+PROJ-1079,Task,Medium,frank,infra,Backlog,2024-10-21 01:41:18,2024-10-21 01:41:18
+PROJ-1079,Task,Medium,frank,infra,In Progress,2024-10-21 06:53:42,2024-10-21 01:41:18
+PROJ-1079,Task,Medium,frank,infra,Code Review,2024-10-21 13:10:44,2024-10-21 01:41:18
+PROJ-1079,Task,Medium,frank,infra,QA,2024-10-22 21:20:40,2024-10-21 01:41:18
+PROJ-1079,Task,Medium,frank,infra,Done,2024-10-23 01:38:55,2024-10-21 01:41:18
+PROJ-1080,Bug,Medium,alice,backend,Backlog,2024-11-02 13:59:23,2024-11-02 13:59:23
+PROJ-1080,Bug,Medium,alice,backend,In Progress,2024-11-02 21:21:50,2024-11-02 13:59:23
+PROJ-1080,Bug,Medium,alice,backend,Code Review,2024-11-03 16:24:36,2024-11-02 13:59:23
+PROJ-1080,Bug,Medium,alice,backend,QA,2024-11-04 19:59:52,2024-11-02 13:59:23
+PROJ-1080,Bug,Medium,alice,backend,Done,2024-11-05 00:37:31,2024-11-02 13:59:23
+PROJ-1081,Bug,Medium,alice,backend,Backlog,2024-10-04 09:14:35,2024-10-04 09:14:35
+PROJ-1081,Bug,Medium,alice,backend,In Progress,2024-10-05 11:01:40,2024-10-04 09:14:35
+PROJ-1081,Bug,Medium,alice,backend,Code Review,2024-10-06 07:05:45,2024-10-04 09:14:35
+PROJ-1081,Bug,Medium,alice,backend,QA,2024-10-07 05:15:38,2024-10-04 09:14:35
+PROJ-1081,Bug,Medium,alice,backend,Done,2024-10-07 14:49:44,2024-10-04 09:14:35
+PROJ-1082,Bug,Medium,bob,frontend,Backlog,2024-10-25 13:30:30,2024-10-25 13:30:30
+PROJ-1082,Bug,Medium,bob,frontend,In Progress,2024-10-25 18:51:38,2024-10-25 13:30:30
+PROJ-1082,Bug,Medium,bob,frontend,Code Review,2024-10-26 02:16:35,2024-10-25 13:30:30
+PROJ-1082,Bug,Medium,bob,frontend,QA,2024-10-26 17:04:36,2024-10-25 13:30:30
+PROJ-1082,Bug,Medium,bob,frontend,Done,2024-10-27 06:25:20,2024-10-25 13:30:30
+PROJ-1083,Story,Low,eve,backend,Backlog,2024-09-12 20:41:06,2024-09-12 20:41:06
+PROJ-1083,Story,Low,eve,backend,In Progress,2024-09-12 21:48:03,2024-09-12 20:41:06
+PROJ-1083,Story,Low,eve,backend,Code Review,2024-09-13 03:16:53,2024-09-12 20:41:06
+PROJ-1083,Story,Low,eve,backend,QA,2024-09-13 10:13:24,2024-09-12 20:41:06
+PROJ-1083,Story,Low,eve,backend,Done,2024-09-15 14:21:42,2024-09-12 20:41:06
+PROJ-1084,Story,Medium,eve,backend,Backlog,2024-11-22 00:44:50,2024-11-22 00:44:50
+PROJ-1084,Story,Medium,eve,backend,In Progress,2024-11-22 17:13:15,2024-11-22 00:44:50
+PROJ-1084,Story,Medium,eve,backend,Code Review,2024-11-23 11:48:56,2024-11-22 00:44:50
+PROJ-1084,Story,Medium,eve,backend,QA,2024-11-24 06:40:17,2024-11-22 00:44:50
+PROJ-1084,Story,Medium,eve,backend,Done,2024-11-24 09:29:42,2024-11-22 00:44:50
+PROJ-1085,Task,Medium,eve,frontend,Backlog,2024-10-13 17:28:32,2024-10-13 17:28:32
+PROJ-1085,Task,Medium,eve,frontend,In Progress,2024-10-13 23:53:15,2024-10-13 17:28:32
+PROJ-1085,Task,Medium,eve,frontend,Code Review,2024-10-14 11:35:06,2024-10-13 17:28:32
+PROJ-1085,Task,Medium,eve,frontend,QA,2024-10-14 21:23:20,2024-10-13 17:28:32
+PROJ-1085,Task,Medium,eve,frontend,Done,2024-10-15 03:56:24,2024-10-13 17:28:32
+PROJ-1086,Bug,High,carol,infra,Backlog,2024-11-28 06:46:43,2024-11-28 06:46:43
+PROJ-1086,Bug,High,carol,infra,In Progress,2024-11-28 11:50:43,2024-11-28 06:46:43
+PROJ-1086,Bug,High,carol,infra,Code Review,2024-11-29 03:19:33,2024-11-28 06:46:43
+PROJ-1086,Bug,High,carol,infra,QA,2024-12-02 03:42:55,2024-11-28 06:46:43
+PROJ-1086,Bug,High,carol,infra,Done,2024-12-02 06:05:10,2024-11-28 06:46:43
+PROJ-1087,Story,Medium,bob,frontend,Backlog,2024-11-05 18:04:02,2024-11-05 18:04:02
+PROJ-1087,Story,Medium,bob,frontend,In Progress,2024-11-05 22:49:20,2024-11-05 18:04:02
+PROJ-1087,Story,Medium,bob,frontend,Code Review,2024-11-06 14:37:11,2024-11-05 18:04:02
+PROJ-1087,Story,Medium,bob,frontend,QA,2024-11-07 10:36:30,2024-11-05 18:04:02
+PROJ-1087,Story,Medium,bob,frontend,Done,2024-11-08 04:08:21,2024-11-05 18:04:02
+PROJ-1088,Story,Medium,eve,frontend,Backlog,2024-12-05 13:12:17,2024-12-05 13:12:17
+PROJ-1088,Story,Medium,eve,frontend,In Progress,2024-12-05 22:48:16,2024-12-05 13:12:17
+PROJ-1088,Story,Medium,eve,frontend,Code Review,2024-12-06 04:56:19,2024-12-05 13:12:17
+PROJ-1088,Story,Medium,eve,frontend,QA,2024-12-06 12:24:08,2024-12-05 13:12:17
+PROJ-1088,Story,Medium,eve,frontend,Done,2024-12-09 13:31:31,2024-12-05 13:12:17
+PROJ-1089,Bug,Medium,bob,frontend,Backlog,2024-11-26 13:50:55,2024-11-26 13:50:55
+PROJ-1089,Bug,Medium,bob,frontend,In Progress,2024-11-26 15:03:48,2024-11-26 13:50:55
+PROJ-1089,Bug,Medium,bob,frontend,Code Review,2024-11-27 05:38:23,2024-11-26 13:50:55
+PROJ-1089,Bug,Medium,bob,frontend,QA,2024-11-29 19:59:05,2024-11-26 13:50:55
+PROJ-1089,Bug,Medium,bob,frontend,Done,2024-12-02 14:44:03,2024-11-26 13:50:55
+PROJ-1090,Bug,Medium,dave,frontend,Backlog,2024-09-27 21:42:08,2024-09-27 21:42:08
+PROJ-1090,Bug,Medium,dave,frontend,In Progress,2024-09-28 02:37:57,2024-09-27 21:42:08
+PROJ-1090,Bug,Medium,dave,frontend,Code Review,2024-09-28 19:00:09,2024-09-27 21:42:08
+PROJ-1090,Bug,Medium,dave,frontend,QA,2024-10-01 03:46:47,2024-09-27 21:42:08
+PROJ-1090,Bug,Medium,dave,frontend,Done,2024-10-01 12:05:25,2024-09-27 21:42:08
+PROJ-1091,Bug,High,dave,backend,Backlog,2024-11-24 08:40:02,2024-11-24 08:40:02
+PROJ-1091,Bug,High,dave,backend,In Progress,2024-11-25 08:22:20,2024-11-24 08:40:02
+PROJ-1091,Bug,High,dave,backend,Code Review,2024-11-25 18:13:38,2024-11-24 08:40:02
+PROJ-1091,Bug,High,dave,backend,QA,2024-12-04 17:10:22,2024-11-24 08:40:02
+PROJ-1091,Bug,High,dave,backend,Done,2024-12-05 14:02:00,2024-11-24 08:40:02
+PROJ-1092,Bug,Medium,bob,frontend,Backlog,2024-10-05 22:45:47,2024-10-05 22:45:47
+PROJ-1092,Bug,Medium,bob,frontend,In Progress,2024-10-06 01:30:22,2024-10-05 22:45:47
+PROJ-1092,Bug,Medium,bob,frontend,Code Review,2024-10-06 06:22:07,2024-10-05 22:45:47
+PROJ-1092,Bug,Medium,bob,frontend,QA,2024-10-06 14:29:36,2024-10-05 22:45:47
+PROJ-1092,Bug,Medium,bob,frontend,Done,2024-10-06 16:38:25,2024-10-05 22:45:47
+PROJ-1093,Task,Medium,bob,backend,Backlog,2024-11-05 01:59:19,2024-11-05 01:59:19
+PROJ-1093,Task,Medium,bob,backend,In Progress,2024-11-05 03:46:56,2024-11-05 01:59:19
+PROJ-1093,Task,Medium,bob,backend,Code Review,2024-11-05 21:34:07,2024-11-05 01:59:19
+PROJ-1093,Task,Medium,bob,backend,QA,2024-11-06 05:02:44,2024-11-05 01:59:19
+PROJ-1093,Task,Medium,bob,backend,Done,2024-11-06 10:07:08,2024-11-05 01:59:19
+PROJ-1094,Bug,Low,carol,infra,Backlog,2024-11-24 22:05:18,2024-11-24 22:05:18
+PROJ-1094,Bug,Low,carol,infra,In Progress,2024-11-25 13:59:47,2024-11-24 22:05:18
+PROJ-1094,Bug,Low,carol,infra,Code Review,2024-11-25 18:16:44,2024-11-24 22:05:18
+PROJ-1094,Bug,Low,carol,infra,QA,2024-11-30 03:08:11,2024-11-24 22:05:18
+PROJ-1094,Bug,Low,carol,infra,Done,2024-11-30 07:47:06,2024-11-24 22:05:18
+PROJ-1095,Story,Medium,carol,backend,Backlog,2024-10-10 19:19:05,2024-10-10 19:19:05
+PROJ-1095,Story,Medium,carol,backend,In Progress,2024-10-10 21:19:26,2024-10-10 19:19:05
+PROJ-1095,Story,Medium,carol,backend,Code Review,2024-10-11 15:38:30,2024-10-10 19:19:05
+PROJ-1095,Story,Medium,carol,backend,QA,2024-10-12 17:28:11,2024-10-10 19:19:05
+PROJ-1095,Story,Medium,carol,backend,Done,2024-10-13 12:15:54,2024-10-10 19:19:05
+PROJ-1096,Story,Medium,carol,backend,Backlog,2024-09-13 04:45:56,2024-09-13 04:45:56
+PROJ-1096,Story,Medium,carol,backend,In Progress,2024-09-13 16:23:30,2024-09-13 04:45:56
+PROJ-1096,Story,Medium,carol,backend,Code Review,2024-09-14 15:54:57,2024-09-13 04:45:56
+PROJ-1096,Story,Medium,carol,backend,QA,2024-09-15 04:32:33,2024-09-13 04:45:56
+PROJ-1096,Story,Medium,carol,backend,Done,2024-09-15 08:06:18,2024-09-13 04:45:56
+PROJ-1097,Task,Medium,eve,infra,Backlog,2024-09-05 17:08:44,2024-09-05 17:08:44
+PROJ-1097,Task,Medium,eve,infra,In Progress,2024-09-06 05:15:20,2024-09-05 17:08:44
+PROJ-1097,Task,Medium,eve,infra,Code Review,2024-09-07 04:59:10,2024-09-05 17:08:44
+PROJ-1097,Task,Medium,eve,infra,QA,2024-09-17 12:31:20,2024-09-05 17:08:44
+PROJ-1097,Task,Medium,eve,infra,Done,2024-09-17 18:46:44,2024-09-05 17:08:44
+PROJ-1098,Story,Medium,dave,infra,Backlog,2024-11-11 17:37:58,2024-11-11 17:37:58
+PROJ-1098,Story,Medium,dave,infra,In Progress,2024-11-11 22:21:17,2024-11-11 17:37:58
+PROJ-1098,Story,Medium,dave,infra,Code Review,2024-11-12 20:19:48,2024-11-11 17:37:58
+PROJ-1098,Story,Medium,dave,infra,QA,2024-11-14 16:20:00,2024-11-11 17:37:58
+PROJ-1098,Story,Medium,dave,infra,Done,2024-11-17 20:16:38,2024-11-11 17:37:58
+PROJ-1099,Bug,Medium,eve,backend,Backlog,2024-10-09 09:34:13,2024-10-09 09:34:13
+PROJ-1099,Bug,Medium,eve,backend,In Progress,2024-10-10 02:12:32,2024-10-09 09:34:13
+PROJ-1099,Bug,Medium,eve,backend,Code Review,2024-10-10 12:55:59,2024-10-09 09:34:13
+PROJ-1099,Bug,Medium,eve,backend,QA,2024-10-11 22:43:44,2024-10-09 09:34:13
+PROJ-1099,Bug,Medium,eve,backend,Done,2024-10-15 09:33:14,2024-10-09 09:34:13
+PROJ-1100,Bug,Medium,alice,frontend,Backlog,2024-09-02 03:56:27,2024-09-02 03:56:27
+PROJ-1100,Bug,Medium,alice,frontend,In Progress,2024-09-02 05:48:41,2024-09-02 03:56:27
+PROJ-1100,Bug,Medium,alice,frontend,Code Review,2024-09-03 13:45:10,2024-09-02 03:56:27
+PROJ-1100,Bug,Medium,alice,frontend,QA,2024-09-04 09:49:37,2024-09-02 03:56:27
+PROJ-1100,Bug,Medium,alice,frontend,Done,2024-09-05 01:50:15,2024-09-02 03:56:27
+PROJ-1101,Story,Medium,frank,frontend,Backlog,2024-10-07 08:41:51,2024-10-07 08:41:51
+PROJ-1101,Story,Medium,frank,frontend,In Progress,2024-10-07 12:47:00,2024-10-07 08:41:51
+PROJ-1101,Story,Medium,frank,frontend,Code Review,2024-10-08 19:53:19,2024-10-07 08:41:51
+PROJ-1101,Story,Medium,frank,frontend,QA,2024-10-09 11:44:55,2024-10-07 08:41:51
+PROJ-1101,Story,Medium,frank,frontend,Done,2024-10-09 13:50:08,2024-10-07 08:41:51
+PROJ-1102,Bug,High,frank,infra,Backlog,2024-11-01 12:03:26,2024-11-01 12:03:26
+PROJ-1102,Bug,High,frank,infra,In Progress,2024-11-02 07:55:13,2024-11-01 12:03:26
+PROJ-1102,Bug,High,frank,infra,Code Review,2024-11-02 13:04:09,2024-11-01 12:03:26
+PROJ-1102,Bug,High,frank,infra,QA,2024-11-04 07:31:57,2024-11-01 12:03:26
+PROJ-1102,Bug,High,frank,infra,Done,2024-11-05 09:30:30,2024-11-01 12:03:26
+PROJ-1103,Task,High,frank,infra,Backlog,2024-10-21 05:40:51,2024-10-21 05:40:51
+PROJ-1103,Task,High,frank,infra,In Progress,2024-10-22 06:44:39,2024-10-21 05:40:51
+PROJ-1103,Task,High,frank,infra,Code Review,2024-10-22 20:58:06,2024-10-21 05:40:51
+PROJ-1103,Task,High,frank,infra,QA,2024-10-25 20:55:53,2024-10-21 05:40:51
+PROJ-1103,Task,High,frank,infra,Done,2024-10-28 11:06:51,2024-10-21 05:40:51
+PROJ-1104,Bug,Medium,dave,infra,Backlog,2024-10-25 19:52:28,2024-10-25 19:52:28
+PROJ-1104,Bug,Medium,dave,infra,In Progress,2024-10-25 23:39:02,2024-10-25 19:52:28
+PROJ-1104,Bug,Medium,dave,infra,Code Review,2024-10-26 08:25:56,2024-10-25 19:52:28
+PROJ-1104,Bug,Medium,dave,infra,QA,2024-10-29 14:00:57,2024-10-25 19:52:28
+PROJ-1104,Bug,Medium,dave,infra,Done,2024-10-30 03:10:57,2024-10-25 19:52:28
+PROJ-1105,Bug,Medium,dave,frontend,Backlog,2024-11-06 18:15:54,2024-11-06 18:15:54
+PROJ-1105,Bug,Medium,dave,frontend,In Progress,2024-11-07 07:48:38,2024-11-06 18:15:54
+PROJ-1105,Bug,Medium,dave,frontend,Code Review,2024-11-08 06:30:59,2024-11-06 18:15:54
+PROJ-1105,Bug,Medium,dave,frontend,QA,2024-11-09 08:15:17,2024-11-06 18:15:54
+PROJ-1105,Bug,Medium,dave,frontend,Done,2024-11-09 15:42:40,2024-11-06 18:15:54
+PROJ-1106,Story,Medium,eve,backend,Backlog,2024-10-01 05:15:50,2024-10-01 05:15:50
+PROJ-1106,Story,Medium,eve,backend,In Progress,2024-10-01 06:44:17,2024-10-01 05:15:50
+PROJ-1106,Story,Medium,eve,backend,Code Review,2024-10-01 20:18:27,2024-10-01 05:15:50
+PROJ-1106,Story,Medium,eve,backend,QA,2024-10-02 13:57:31,2024-10-01 05:15:50
+PROJ-1106,Story,Medium,eve,backend,Done,2024-10-03 09:27:06,2024-10-01 05:15:50
+PROJ-1107,Bug,Medium,alice,infra,Backlog,2024-09-29 20:33:26,2024-09-29 20:33:26
+PROJ-1107,Bug,Medium,alice,infra,In Progress,2024-09-30 01:00:53,2024-09-29 20:33:26
+PROJ-1107,Bug,Medium,alice,infra,Code Review,2024-09-30 06:30:31,2024-09-29 20:33:26
+PROJ-1107,Bug,Medium,alice,infra,QA,2024-10-01 13:54:56,2024-09-29 20:33:26
+PROJ-1107,Bug,Medium,alice,infra,Done,2024-10-02 03:22:58,2024-09-29 20:33:26
+PROJ-1108,Bug,Low,eve,backend,Backlog,2024-11-04 13:34:28,2024-11-04 13:34:28
+PROJ-1108,Bug,Low,eve,backend,In Progress,2024-11-04 22:16:39,2024-11-04 13:34:28
+PROJ-1108,Bug,Low,eve,backend,Code Review,2024-11-05 03:33:25,2024-11-04 13:34:28
+PROJ-1108,Bug,Low,eve,backend,QA,2024-11-05 11:18:50,2024-11-04 13:34:28
+PROJ-1108,Bug,Low,eve,backend,Done,2024-11-05 22:58:18,2024-11-04 13:34:28
+PROJ-1109,Task,Low,dave,frontend,Backlog,2024-11-06 14:19:32,2024-11-06 14:19:32
+PROJ-1109,Task,Low,dave,frontend,In Progress,2024-11-06 15:55:47,2024-11-06 14:19:32
+PROJ-1109,Task,Low,dave,frontend,Code Review,2024-11-07 16:37:55,2024-11-06 14:19:32
+PROJ-1109,Task,Low,dave,frontend,QA,2024-11-11 14:07:55,2024-11-06 14:19:32
+PROJ-1109,Task,Low,dave,frontend,Done,2024-11-11 16:48:39,2024-11-06 14:19:32
+PROJ-1110,Bug,Medium,dave,frontend,Backlog,2024-11-04 23:14:00,2024-11-04 23:14:00
+PROJ-1110,Bug,Medium,dave,frontend,In Progress,2024-11-05 00:56:33,2024-11-04 23:14:00
+PROJ-1110,Bug,Medium,dave,frontend,Code Review,2024-11-07 08:43:41,2024-11-04 23:14:00
+PROJ-1110,Bug,Medium,dave,frontend,QA,2024-11-09 08:51:29,2024-11-04 23:14:00
+PROJ-1110,Bug,Medium,dave,frontend,Done,2024-11-09 14:33:45,2024-11-04 23:14:00
+PROJ-1111,Story,Medium,eve,backend,Backlog,2024-10-04 13:02:42,2024-10-04 13:02:42
+PROJ-1111,Story,Medium,eve,backend,In Progress,2024-10-05 03:26:58,2024-10-04 13:02:42
+PROJ-1111,Story,Medium,eve,backend,Code Review,2024-10-06 18:45:20,2024-10-04 13:02:42
+PROJ-1111,Story,Medium,eve,backend,QA,2024-10-10 14:07:51,2024-10-04 13:02:42
+PROJ-1111,Story,Medium,eve,backend,Done,2024-10-12 20:49:28,2024-10-04 13:02:42
+PROJ-1112,Bug,Medium,bob,frontend,Backlog,2024-09-16 07:21:34,2024-09-16 07:21:34
+PROJ-1112,Bug,Medium,bob,frontend,In Progress,2024-09-16 12:08:08,2024-09-16 07:21:34
+PROJ-1112,Bug,Medium,bob,frontend,Code Review,2024-09-16 17:10:54,2024-09-16 07:21:34
+PROJ-1112,Bug,Medium,bob,frontend,QA,2024-09-18 05:12:24,2024-09-16 07:21:34
+PROJ-1112,Bug,Medium,bob,frontend,Done,2024-09-18 13:44:44,2024-09-16 07:21:34
+PROJ-1113,Story,High,bob,frontend,Backlog,2024-10-31 08:22:17,2024-10-31 08:22:17
+PROJ-1113,Story,High,bob,frontend,In Progress,2024-10-31 13:47:15,2024-10-31 08:22:17
+PROJ-1113,Story,High,bob,frontend,Code Review,2024-11-01 22:12:23,2024-10-31 08:22:17
+PROJ-1113,Story,High,bob,frontend,QA,2024-11-02 06:33:50,2024-10-31 08:22:17
+PROJ-1113,Story,High,bob,frontend,Done,2024-11-02 13:59:31,2024-10-31 08:22:17
+PROJ-1114,Story,Low,dave,backend,Backlog,2024-09-20 21:04:00,2024-09-20 21:04:00
+PROJ-1114,Story,Low,dave,backend,In Progress,2024-09-20 22:09:28,2024-09-20 21:04:00
+PROJ-1114,Story,Low,dave,backend,Code Review,2024-09-21 09:44:46,2024-09-20 21:04:00
+PROJ-1114,Story,Low,dave,backend,QA,2024-09-22 09:13:23,2024-09-20 21:04:00
+PROJ-1114,Story,Low,dave,backend,Done,2024-09-22 12:14:06,2024-09-20 21:04:00
+PROJ-1115,Story,Low,dave,frontend,Backlog,2024-09-25 16:31:29,2024-09-25 16:31:29
+PROJ-1115,Story,Low,dave,frontend,In Progress,2024-09-25 18:31:29,2024-09-25 16:31:29
+PROJ-1115,Story,Low,dave,frontend,Code Review,2024-09-26 11:05:44,2024-09-25 16:31:29
+PROJ-1115,Story,Low,dave,frontend,QA,2024-09-30 17:19:53,2024-09-25 16:31:29
+PROJ-1115,Story,Low,dave,frontend,Done,2024-10-01 02:20:09,2024-09-25 16:31:29
+PROJ-1116,Bug,High,alice,frontend,Backlog,2024-09-23 05:56:12,2024-09-23 05:56:12
+PROJ-1116,Bug,High,alice,frontend,In Progress,2024-09-24 09:08:03,2024-09-23 05:56:12
+PROJ-1116,Bug,High,alice,frontend,Code Review,2024-09-24 18:46:19,2024-09-23 05:56:12
+PROJ-1116,Bug,High,alice,frontend,QA,2024-09-25 07:30:04,2024-09-23 05:56:12
+PROJ-1116,Bug,High,alice,frontend,Done,2024-09-26 01:44:14,2024-09-23 05:56:12
+PROJ-1117,Bug,Medium,dave,backend,Backlog,2024-10-26 02:50:58,2024-10-26 02:50:58
+PROJ-1117,Bug,Medium,dave,backend,In Progress,2024-10-26 05:52:26,2024-10-26 02:50:58
+PROJ-1117,Bug,Medium,dave,backend,Code Review,2024-10-28 01:30:30,2024-10-26 02:50:58
+PROJ-1117,Bug,Medium,dave,backend,QA,2024-10-28 22:14:32,2024-10-26 02:50:58
+PROJ-1117,Bug,Medium,dave,backend,Done,2024-10-30 04:15:44,2024-10-26 02:50:58
+PROJ-1118,Bug,High,dave,frontend,Backlog,2024-11-18 19:26:09,2024-11-18 19:26:09
+PROJ-1118,Bug,High,dave,frontend,In Progress,2024-11-18 20:47:19,2024-11-18 19:26:09
+PROJ-1118,Bug,High,dave,frontend,Code Review,2024-11-20 03:24:05,2024-11-18 19:26:09
+PROJ-1118,Bug,High,dave,frontend,QA,2024-11-22 20:24:36,2024-11-18 19:26:09
+PROJ-1118,Bug,High,dave,frontend,Done,2024-11-27 01:12:57,2024-11-18 19:26:09
+PROJ-1119,Story,Medium,eve,infra,Backlog,2024-12-03 05:45:09,2024-12-03 05:45:09
+PROJ-1119,Story,Medium,eve,infra,In Progress,2024-12-03 07:21:56,2024-12-03 05:45:09
+PROJ-1119,Story,Medium,eve,infra,Code Review,2024-12-03 21:03:03,2024-12-03 05:45:09
+PROJ-1119,Story,Medium,eve,infra,QA,2024-12-11 20:15:45,2024-12-03 05:45:09
+PROJ-1119,Story,Medium,eve,infra,Done,2024-12-12 04:11:10,2024-12-03 05:45:09
+PROJ-1120,Bug,Medium,frank,backend,Backlog,2024-10-13 10:22:40,2024-10-13 10:22:40
+PROJ-1120,Bug,Medium,frank,backend,In Progress,2024-10-13 19:19:07,2024-10-13 10:22:40
+PROJ-1120,Bug,Medium,frank,backend,Code Review,2024-10-14 13:35:51,2024-10-13 10:22:40
+PROJ-1120,Bug,Medium,frank,backend,QA,2024-10-15 07:43:12,2024-10-13 10:22:40
+PROJ-1120,Bug,Medium,frank,backend,Done,2024-10-15 17:37:17,2024-10-13 10:22:40
+PROJ-1121,Story,Low,bob,frontend,Backlog,2024-10-15 16:44:18,2024-10-15 16:44:18
+PROJ-1121,Story,Low,bob,frontend,In Progress,2024-10-16 00:45:39,2024-10-15 16:44:18
+PROJ-1121,Story,Low,bob,frontend,Code Review,2024-10-17 08:31:54,2024-10-15 16:44:18
+PROJ-1121,Story,Low,bob,frontend,QA,2024-10-17 15:27:43,2024-10-15 16:44:18
+PROJ-1121,Story,Low,bob,frontend,Done,2024-10-19 16:14:51,2024-10-15 16:44:18
+PROJ-1122,Bug,Medium,eve,frontend,Backlog,2024-11-01 20:25:46,2024-11-01 20:25:46
+PROJ-1122,Bug,Medium,eve,frontend,In Progress,2024-11-02 21:27:41,2024-11-01 20:25:46
+PROJ-1122,Bug,Medium,eve,frontend,Code Review,2024-11-04 03:58:39,2024-11-01 20:25:46
+PROJ-1122,Bug,Medium,eve,frontend,QA,2024-11-04 22:08:27,2024-11-01 20:25:46
+PROJ-1122,Bug,Medium,eve,frontend,Done,2024-11-05 07:53:04,2024-11-01 20:25:46
+PROJ-1123,Bug,Medium,dave,backend,Backlog,2024-11-10 06:40:48,2024-11-10 06:40:48
+PROJ-1123,Bug,Medium,dave,backend,In Progress,2024-11-10 10:16:44,2024-11-10 06:40:48
+PROJ-1123,Bug,Medium,dave,backend,Code Review,2024-11-10 16:46:47,2024-11-10 06:40:48
+PROJ-1123,Bug,Medium,dave,backend,QA,2024-11-13 02:09:48,2024-11-10 06:40:48
+PROJ-1123,Bug,Medium,dave,backend,Done,2024-11-13 07:39:03,2024-11-10 06:40:48
+PROJ-1124,Task,Medium,carol,infra,Backlog,2024-10-03 00:58:38,2024-10-03 00:58:38
+PROJ-1124,Task,Medium,carol,infra,In Progress,2024-10-03 08:59:13,2024-10-03 00:58:38
+PROJ-1124,Task,Medium,carol,infra,Code Review,2024-10-03 13:57:29,2024-10-03 00:58:38
+PROJ-1124,Task,Medium,carol,infra,QA,2024-10-11 21:52:34,2024-10-03 00:58:38
+PROJ-1124,Task,Medium,carol,infra,Done,2024-10-16 07:34:47,2024-10-03 00:58:38
+PROJ-1125,Story,Medium,bob,frontend,Backlog,2024-10-09 04:32:12,2024-10-09 04:32:12
+PROJ-1125,Story,Medium,bob,frontend,In Progress,2024-10-09 15:07:10,2024-10-09 04:32:12
+PROJ-1125,Story,Medium,bob,frontend,Code Review,2024-10-10 04:20:11,2024-10-09 04:32:12
+PROJ-1125,Story,Medium,bob,frontend,QA,2024-10-10 17:44:38,2024-10-09 04:32:12
+PROJ-1125,Story,Medium,bob,frontend,Done,2024-10-13 12:17:40,2024-10-09 04:32:12
+PROJ-1126,Story,Medium,alice,frontend,Backlog,2024-10-11 13:46:31,2024-10-11 13:46:31
+PROJ-1126,Story,Medium,alice,frontend,In Progress,2024-10-12 00:00:35,2024-10-11 13:46:31
+PROJ-1126,Story,Medium,alice,frontend,Code Review,2024-10-12 06:08:22,2024-10-11 13:46:31
+PROJ-1126,Story,Medium,alice,frontend,QA,2024-10-14 12:30:20,2024-10-11 13:46:31
+PROJ-1126,Story,Medium,alice,frontend,Done,2024-10-15 04:20:15,2024-10-11 13:46:31
+PROJ-1127,Task,Medium,dave,frontend,Backlog,2024-09-08 01:05:22,2024-09-08 01:05:22
+PROJ-1127,Task,Medium,dave,frontend,In Progress,2024-09-09 02:01:24,2024-09-08 01:05:22
+PROJ-1127,Task,Medium,dave,frontend,Code Review,2024-09-09 21:32:47,2024-09-08 01:05:22
+PROJ-1127,Task,Medium,dave,frontend,QA,2024-09-13 02:34:15,2024-09-08 01:05:22
+PROJ-1127,Task,Medium,dave,frontend,Done,2024-09-15 13:52:06,2024-09-08 01:05:22
+PROJ-1128,Bug,Low,eve,backend,Backlog,2024-11-24 04:19:49,2024-11-24 04:19:49
+PROJ-1128,Bug,Low,eve,backend,In Progress,2024-11-25 02:55:20,2024-11-24 04:19:49
+PROJ-1128,Bug,Low,eve,backend,Code Review,2024-11-26 07:02:49,2024-11-24 04:19:49
+PROJ-1128,Bug,Low,eve,backend,QA,2024-11-26 13:58:21,2024-11-24 04:19:49
+PROJ-1128,Bug,Low,eve,backend,Done,2024-11-26 16:11:10,2024-11-24 04:19:49
+PROJ-1129,Story,Low,dave,backend,Backlog,2024-12-02 12:44:50,2024-12-02 12:44:50
+PROJ-1129,Story,Low,dave,backend,In Progress,2024-12-02 17:31:33,2024-12-02 12:44:50
+PROJ-1129,Story,Low,dave,backend,Code Review,2024-12-03 17:29:23,2024-12-02 12:44:50
+PROJ-1129,Story,Low,dave,backend,QA,2024-12-15 11:20:46,2024-12-02 12:44:50
+PROJ-1129,Story,Low,dave,backend,Done,2024-12-15 14:39:01,2024-12-02 12:44:50
+PROJ-1130,Task,Medium,dave,frontend,Backlog,2024-10-24 06:08:41,2024-10-24 06:08:41
+PROJ-1130,Task,Medium,dave,frontend,In Progress,2024-10-24 14:21:30,2024-10-24 06:08:41
+PROJ-1130,Task,Medium,dave,frontend,Code Review,2024-10-25 00:06:43,2024-10-24 06:08:41
+PROJ-1130,Task,Medium,dave,frontend,QA,2024-11-03 14:20:04,2024-10-24 06:08:41
+PROJ-1130,Task,Medium,dave,frontend,Done,2024-11-04 07:06:07,2024-10-24 06:08:41
+PROJ-1131,Story,Medium,eve,frontend,Backlog,2024-10-19 09:39:25,2024-10-19 09:39:25
+PROJ-1131,Story,Medium,eve,frontend,In Progress,2024-10-20 01:14:04,2024-10-19 09:39:25
+PROJ-1131,Story,Medium,eve,frontend,Code Review,2024-10-20 12:49:24,2024-10-19 09:39:25
+PROJ-1131,Story,Medium,eve,frontend,QA,2024-10-21 05:32:24,2024-10-19 09:39:25
+PROJ-1131,Story,Medium,eve,frontend,Done,2024-10-21 10:05:42,2024-10-19 09:39:25
+PROJ-1132,Bug,Medium,dave,frontend,Backlog,2024-09-04 19:37:57,2024-09-04 19:37:57
+PROJ-1132,Bug,Medium,dave,frontend,In Progress,2024-09-04 21:05:48,2024-09-04 19:37:57
+PROJ-1132,Bug,Medium,dave,frontend,Code Review,2024-09-06 01:06:06,2024-09-04 19:37:57
+PROJ-1132,Bug,Medium,dave,frontend,QA,2024-09-11 01:40:07,2024-09-04 19:37:57
+PROJ-1132,Bug,Medium,dave,frontend,Done,2024-09-13 21:02:54,2024-09-04 19:37:57
+PROJ-1133,Bug,Medium,frank,frontend,Backlog,2024-11-11 07:27:53,2024-11-11 07:27:53
+PROJ-1133,Bug,Medium,frank,frontend,In Progress,2024-11-13 06:01:25,2024-11-11 07:27:53
+PROJ-1133,Bug,Medium,frank,frontend,Code Review,2024-11-13 19:45:05,2024-11-11 07:27:53
+PROJ-1133,Bug,Medium,frank,frontend,QA,2024-11-15 07:03:25,2024-11-11 07:27:53
+PROJ-1133,Bug,Medium,frank,frontend,Done,2024-11-18 12:11:15,2024-11-11 07:27:53
+PROJ-1134,Bug,Medium,eve,backend,Backlog,2024-09-04 14:50:10,2024-09-04 14:50:10
+PROJ-1134,Bug,Medium,eve,backend,In Progress,2024-09-05 06:59:39,2024-09-04 14:50:10
+PROJ-1134,Bug,Medium,eve,backend,Code Review,2024-09-05 14:24:14,2024-09-04 14:50:10
+PROJ-1134,Bug,Medium,eve,backend,QA,2024-09-06 08:22:50,2024-09-04 14:50:10
+PROJ-1134,Bug,Medium,eve,backend,Done,2024-09-09 09:15:11,2024-09-04 14:50:10
+PROJ-1135,Story,Medium,frank,backend,Backlog,2024-09-10 03:36:42,2024-09-10 03:36:42
+PROJ-1135,Story,Medium,frank,backend,In Progress,2024-09-11 05:15:12,2024-09-10 03:36:42
+PROJ-1135,Story,Medium,frank,backend,Code Review,2024-09-11 20:26:08,2024-09-10 03:36:42
+PROJ-1135,Story,Medium,frank,backend,QA,2024-09-12 07:37:39,2024-09-10 03:36:42
+PROJ-1135,Story,Medium,frank,backend,Done,2024-09-12 18:32:18,2024-09-10 03:36:42
+PROJ-1136,Story,Low,bob,frontend,Backlog,2024-09-19 15:27:33,2024-09-19 15:27:33
+PROJ-1136,Story,Low,bob,frontend,In Progress,2024-09-20 00:09:37,2024-09-19 15:27:33
+PROJ-1136,Story,Low,bob,frontend,Code Review,2024-09-20 09:28:53,2024-09-19 15:27:33
+PROJ-1136,Story,Low,bob,frontend,QA,2024-09-20 17:53:32,2024-09-19 15:27:33
+PROJ-1136,Story,Low,bob,frontend,Done,2024-09-23 06:00:24,2024-09-19 15:27:33
+PROJ-1137,Bug,Medium,bob,frontend,Backlog,2024-10-03 17:36:21,2024-10-03 17:36:21
+PROJ-1137,Bug,Medium,bob,frontend,In Progress,2024-10-04 00:28:57,2024-10-03 17:36:21
+PROJ-1137,Bug,Medium,bob,frontend,Code Review,2024-10-04 22:14:25,2024-10-03 17:36:21
+PROJ-1137,Bug,Medium,bob,frontend,QA,2024-10-05 18:55:35,2024-10-03 17:36:21
+PROJ-1137,Bug,Medium,bob,frontend,Done,2024-10-06 12:13:14,2024-10-03 17:36:21
+PROJ-1138,Task,Low,carol,frontend,Backlog,2024-09-26 11:50:06,2024-09-26 11:50:06
+PROJ-1138,Task,Low,carol,frontend,In Progress,2024-09-26 19:15:25,2024-09-26 11:50:06
+PROJ-1138,Task,Low,carol,frontend,Code Review,2024-09-27 09:08:03,2024-09-26 11:50:06
+PROJ-1138,Task,Low,carol,frontend,QA,2024-09-29 08:59:22,2024-09-26 11:50:06
+PROJ-1138,Task,Low,carol,frontend,Done,2024-09-29 15:07:21,2024-09-26 11:50:06
+PROJ-1139,Story,Low,alice,backend,Backlog,2024-09-07 01:22:05,2024-09-07 01:22:05
+PROJ-1139,Story,Low,alice,backend,In Progress,2024-09-07 03:31:08,2024-09-07 01:22:05
+PROJ-1139,Story,Low,alice,backend,Code Review,2024-09-07 07:52:10,2024-09-07 01:22:05
+PROJ-1139,Story,Low,alice,backend,QA,2024-09-08 18:00:38,2024-09-07 01:22:05
+PROJ-1139,Story,Low,alice,backend,Done,2024-09-09 03:45:28,2024-09-07 01:22:05
+PROJ-1140,Task,Medium,frank,backend,Backlog,2024-11-16 20:24:17,2024-11-16 20:24:17
+PROJ-1140,Task,Medium,frank,backend,In Progress,2024-11-17 07:08:45,2024-11-16 20:24:17
+PROJ-1140,Task,Medium,frank,backend,Code Review,2024-11-17 14:01:11,2024-11-16 20:24:17
+PROJ-1140,Task,Medium,frank,backend,QA,2024-11-17 22:57:07,2024-11-16 20:24:17
+PROJ-1140,Task,Medium,frank,backend,Done,2024-11-18 01:04:09,2024-11-16 20:24:17
+PROJ-1141,Story,High,alice,frontend,Backlog,2024-09-21 08:32:38,2024-09-21 08:32:38
+PROJ-1141,Story,High,alice,frontend,In Progress,2024-09-21 12:59:50,2024-09-21 08:32:38
+PROJ-1141,Story,High,alice,frontend,Code Review,2024-09-22 03:41:38,2024-09-21 08:32:38
+PROJ-1141,Story,High,alice,frontend,QA,2024-09-22 19:39:13,2024-09-21 08:32:38
+PROJ-1141,Story,High,alice,frontend,Done,2024-09-23 02:15:22,2024-09-21 08:32:38
+PROJ-1142,Story,Medium,bob,frontend,Backlog,2024-09-14 06:06:58,2024-09-14 06:06:58
+PROJ-1142,Story,Medium,bob,frontend,In Progress,2024-09-15 01:52:35,2024-09-14 06:06:58
+PROJ-1142,Story,Medium,bob,frontend,Code Review,2024-09-15 11:00:49,2024-09-14 06:06:58
+PROJ-1142,Story,Medium,bob,frontend,QA,2024-09-16 07:26:39,2024-09-14 06:06:58
+PROJ-1142,Story,Medium,bob,frontend,Done,2024-09-16 21:41:28,2024-09-14 06:06:58
+PROJ-1143,Bug,High,eve,frontend,Backlog,2024-10-17 03:36:27,2024-10-17 03:36:27
+PROJ-1143,Bug,High,eve,frontend,In Progress,2024-10-17 08:38:53,2024-10-17 03:36:27
+PROJ-1143,Bug,High,eve,frontend,Code Review,2024-10-18 00:19:30,2024-10-17 03:36:27
+PROJ-1143,Bug,High,eve,frontend,QA,2024-10-19 21:59:16,2024-10-17 03:36:27
+PROJ-1143,Bug,High,eve,frontend,Done,2024-10-20 23:52:39,2024-10-17 03:36:27
+PROJ-1144,Story,Medium,carol,frontend,Backlog,2024-10-30 19:49:56,2024-10-30 19:49:56
+PROJ-1144,Story,Medium,carol,frontend,In Progress,2024-10-30 22:06:17,2024-10-30 19:49:56
+PROJ-1144,Story,Medium,carol,frontend,Code Review,2024-11-01 09:26:41,2024-10-30 19:49:56
+PROJ-1144,Story,Medium,carol,frontend,QA,2024-11-02 04:59:41,2024-10-30 19:49:56
+PROJ-1144,Story,Medium,carol,frontend,Done,2024-11-02 09:23:05,2024-10-30 19:49:56
+PROJ-1145,Story,High,bob,infra,Backlog,2024-09-12 11:53:18,2024-09-12 11:53:18
+PROJ-1145,Story,High,bob,infra,In Progress,2024-09-12 17:48:18,2024-09-12 11:53:18
+PROJ-1145,Story,High,bob,infra,Code Review,2024-09-14 20:46:07,2024-09-12 11:53:18
+PROJ-1145,Story,High,bob,infra,QA,2024-09-17 05:20:11,2024-09-12 11:53:18
+PROJ-1145,Story,High,bob,infra,Done,2024-09-17 10:31:31,2024-09-12 11:53:18
+PROJ-1146,Story,High,carol,backend,Backlog,2024-11-06 18:20:00,2024-11-06 18:20:00
+PROJ-1146,Story,High,carol,backend,In Progress,2024-11-07 03:21:40,2024-11-06 18:20:00
+PROJ-1146,Story,High,carol,backend,Code Review,2024-11-07 10:39:24,2024-11-06 18:20:00
+PROJ-1146,Story,High,carol,backend,QA,2024-11-07 18:14:04,2024-11-06 18:20:00
+PROJ-1146,Story,High,carol,backend,Done,2024-11-10 03:52:00,2024-11-06 18:20:00
+PROJ-1147,Bug,Low,frank,frontend,Backlog,2024-09-09 09:05:04,2024-09-09 09:05:04
+PROJ-1147,Bug,Low,frank,frontend,In Progress,2024-09-09 11:10:50,2024-09-09 09:05:04
+PROJ-1147,Bug,Low,frank,frontend,Code Review,2024-09-09 17:09:27,2024-09-09 09:05:04
+PROJ-1147,Bug,Low,frank,frontend,QA,2024-09-10 02:08:48,2024-09-09 09:05:04
+PROJ-1147,Bug,Low,frank,frontend,Done,2024-09-10 12:20:22,2024-09-09 09:05:04
+PROJ-1148,Story,Medium,alice,infra,Backlog,2024-11-23 13:19:36,2024-11-23 13:19:36
+PROJ-1148,Story,Medium,alice,infra,In Progress,2024-11-23 15:55:57,2024-11-23 13:19:36
+PROJ-1148,Story,Medium,alice,infra,Code Review,2024-11-24 01:01:20,2024-11-23 13:19:36
+PROJ-1148,Story,Medium,alice,infra,QA,2024-11-29 14:01:44,2024-11-23 13:19:36
+PROJ-1148,Story,Medium,alice,infra,Done,2024-12-02 13:35:25,2024-11-23 13:19:36
+PROJ-1149,Story,Medium,alice,infra,Backlog,2024-10-23 17:23:11,2024-10-23 17:23:11
+PROJ-1149,Story,Medium,alice,infra,In Progress,2024-10-24 03:11:48,2024-10-23 17:23:11
+PROJ-1149,Story,Medium,alice,infra,Code Review,2024-10-24 09:27:58,2024-10-23 17:23:11
+PROJ-1149,Story,Medium,alice,infra,QA,2024-10-25 19:43:00,2024-10-23 17:23:11
+PROJ-1149,Story,Medium,alice,infra,Done,2024-10-28 08:19:53,2024-10-23 17:23:11
+PROJ-1150,Task,High,eve,infra,Backlog,2024-09-03 05:28:53,2024-09-03 05:28:53
+PROJ-1150,Task,High,eve,infra,In Progress,2024-09-03 07:57:42,2024-09-03 05:28:53
+PROJ-1150,Task,High,eve,infra,Code Review,2024-09-03 15:52:49,2024-09-03 05:28:53
+PROJ-1150,Task,High,eve,infra,QA,2024-09-05 01:13:52,2024-09-03 05:28:53
+PROJ-1150,Task,High,eve,infra,Done,2024-09-05 03:58:27,2024-09-03 05:28:53
+PROJ-1151,Bug,Low,alice,frontend,Backlog,2024-12-04 06:47:50,2024-12-04 06:47:50
+PROJ-1151,Bug,Low,alice,frontend,In Progress,2024-12-04 08:49:32,2024-12-04 06:47:50
+PROJ-1151,Bug,Low,alice,frontend,Code Review,2024-12-04 20:14:14,2024-12-04 06:47:50
+PROJ-1151,Bug,Low,alice,frontend,QA,2024-12-05 06:51:32,2024-12-04 06:47:50
+PROJ-1151,Bug,Low,alice,frontend,Done,2024-12-05 12:28:58,2024-12-04 06:47:50
+PROJ-1152,Task,Low,frank,frontend,Backlog,2024-10-14 06:45:30,2024-10-14 06:45:30
+PROJ-1152,Task,Low,frank,frontend,In Progress,2024-10-14 13:21:30,2024-10-14 06:45:30
+PROJ-1152,Task,Low,frank,frontend,Code Review,2024-10-15 07:25:40,2024-10-14 06:45:30
+PROJ-1152,Task,Low,frank,frontend,QA,2024-10-15 14:13:47,2024-10-14 06:45:30
+PROJ-1152,Task,Low,frank,frontend,Done,2024-10-16 05:04:54,2024-10-14 06:45:30
+PROJ-1153,Bug,Medium,frank,infra,Backlog,2024-10-31 19:10:47,2024-10-31 19:10:47
+PROJ-1153,Bug,Medium,frank,infra,In Progress,2024-11-01 04:05:18,2024-10-31 19:10:47
+PROJ-1153,Bug,Medium,frank,infra,Code Review,2024-11-01 09:06:43,2024-10-31 19:10:47
+PROJ-1153,Bug,Medium,frank,infra,QA,2024-11-06 12:22:56,2024-10-31 19:10:47
+PROJ-1153,Bug,Medium,frank,infra,Done,2024-11-07 10:40:33,2024-10-31 19:10:47
+PROJ-1154,Story,Low,dave,frontend,Backlog,2024-11-21 04:06:03,2024-11-21 04:06:03
+PROJ-1154,Story,Low,dave,frontend,In Progress,2024-11-21 05:36:18,2024-11-21 04:06:03
+PROJ-1154,Story,Low,dave,frontend,Code Review,2024-11-21 13:29:42,2024-11-21 04:06:03
+PROJ-1154,Story,Low,dave,frontend,QA,2024-11-26 11:57:04,2024-11-21 04:06:03
+PROJ-1154,Story,Low,dave,frontend,Done,2024-11-27 00:59:09,2024-11-21 04:06:03
+PROJ-1155,Story,Medium,carol,infra,Backlog,2024-11-23 16:38:07,2024-11-23 16:38:07
+PROJ-1155,Story,Medium,carol,infra,In Progress,2024-11-23 19:16:01,2024-11-23 16:38:07
+PROJ-1155,Story,Medium,carol,infra,Code Review,2024-11-24 02:05:09,2024-11-23 16:38:07
+PROJ-1155,Story,Medium,carol,infra,QA,2024-11-26 00:17:58,2024-11-23 16:38:07
+PROJ-1155,Story,Medium,carol,infra,Done,2024-11-26 07:36:03,2024-11-23 16:38:07
+PROJ-1156,Bug,High,carol,frontend,Backlog,2024-09-25 16:14:34,2024-09-25 16:14:34
+PROJ-1156,Bug,High,carol,frontend,In Progress,2024-09-26 00:56:48,2024-09-25 16:14:34
+PROJ-1156,Bug,High,carol,frontend,Code Review,2024-09-26 10:28:13,2024-09-25 16:14:34
+PROJ-1156,Bug,High,carol,frontend,QA,2024-09-27 04:53:18,2024-09-25 16:14:34
+PROJ-1156,Bug,High,carol,frontend,Done,2024-09-30 11:54:34,2024-09-25 16:14:34
+PROJ-1157,Story,Medium,frank,frontend,Backlog,2024-10-04 15:51:39,2024-10-04 15:51:39
+PROJ-1157,Story,Medium,frank,frontend,In Progress,2024-10-04 17:09:35,2024-10-04 15:51:39
+PROJ-1157,Story,Medium,frank,frontend,Code Review,2024-10-05 00:39:03,2024-10-04 15:51:39
+PROJ-1157,Story,Medium,frank,frontend,QA,2024-10-06 07:38:27,2024-10-04 15:51:39
+PROJ-1157,Story,Medium,frank,frontend,Done,2024-10-07 03:41:13,2024-10-04 15:51:39
+PROJ-1158,Story,Low,carol,frontend,Backlog,2024-10-19 08:04:25,2024-10-19 08:04:25
+PROJ-1158,Story,Low,carol,frontend,In Progress,2024-10-19 14:48:28,2024-10-19 08:04:25
+PROJ-1158,Story,Low,carol,frontend,Code Review,2024-10-20 03:55:19,2024-10-19 08:04:25
+PROJ-1158,Story,Low,carol,frontend,QA,2024-10-20 12:11:21,2024-10-19 08:04:25
+PROJ-1158,Story,Low,carol,frontend,Done,2024-10-20 18:56:04,2024-10-19 08:04:25
+PROJ-1159,Bug,Medium,carol,infra,Backlog,2024-09-29 03:39:05,2024-09-29 03:39:05
+PROJ-1159,Bug,Medium,carol,infra,In Progress,2024-09-29 10:44:10,2024-09-29 03:39:05
+PROJ-1159,Bug,Medium,carol,infra,Code Review,2024-09-29 18:04:06,2024-09-29 03:39:05
+PROJ-1159,Bug,Medium,carol,infra,QA,2024-10-01 09:07:29,2024-09-29 03:39:05
+PROJ-1159,Bug,Medium,carol,infra,Done,2024-10-01 14:54:51,2024-09-29 03:39:05
+PROJ-1160,Story,Medium,eve,backend,Backlog,2024-10-22 03:49:43,2024-10-22 03:49:43
+PROJ-1160,Story,Medium,eve,backend,In Progress,2024-10-22 04:59:26,2024-10-22 03:49:43
+PROJ-1160,Story,Medium,eve,backend,Code Review,2024-10-22 13:39:19,2024-10-22 03:49:43
+PROJ-1160,Story,Medium,eve,backend,QA,2024-10-23 00:24:23,2024-10-22 03:49:43
+PROJ-1160,Story,Medium,eve,backend,Done,2024-10-23 05:34:50,2024-10-22 03:49:43
+PROJ-1161,Bug,High,bob,frontend,Backlog,2024-10-19 10:28:08,2024-10-19 10:28:08
+PROJ-1161,Bug,High,bob,frontend,In Progress,2024-10-19 12:29:21,2024-10-19 10:28:08
+PROJ-1161,Bug,High,bob,frontend,Code Review,2024-10-20 19:02:03,2024-10-19 10:28:08
+PROJ-1161,Bug,High,bob,frontend,QA,2024-10-21 19:02:32,2024-10-19 10:28:08
+PROJ-1161,Bug,High,bob,frontend,Done,2024-10-22 06:08:07,2024-10-19 10:28:08
+PROJ-1162,Story,Medium,frank,frontend,Backlog,2024-11-03 17:03:46,2024-11-03 17:03:46
+PROJ-1162,Story,Medium,frank,frontend,In Progress,2024-11-04 06:30:59,2024-11-03 17:03:46
+PROJ-1162,Story,Medium,frank,frontend,Code Review,2024-11-04 18:47:48,2024-11-03 17:03:46
+PROJ-1162,Story,Medium,frank,frontend,QA,2024-11-05 02:36:55,2024-11-03 17:03:46
+PROJ-1162,Story,Medium,frank,frontend,Done,2024-11-05 10:46:39,2024-11-03 17:03:46
+PROJ-1163,Story,Low,dave,backend,Backlog,2024-09-11 00:49:48,2024-09-11 00:49:48
+PROJ-1163,Story,Low,dave,backend,In Progress,2024-09-11 08:54:04,2024-09-11 00:49:48
+PROJ-1163,Story,Low,dave,backend,Code Review,2024-09-12 05:19:11,2024-09-11 00:49:48
+PROJ-1163,Story,Low,dave,backend,QA,2024-09-14 11:13:19,2024-09-11 00:49:48
+PROJ-1163,Story,Low,dave,backend,Done,2024-09-14 14:18:50,2024-09-11 00:49:48
+PROJ-1164,Task,Medium,dave,frontend,Backlog,2024-10-01 17:30:42,2024-10-01 17:30:42
+PROJ-1164,Task,Medium,dave,frontend,In Progress,2024-10-01 21:10:54,2024-10-01 17:30:42
+PROJ-1164,Task,Medium,dave,frontend,Code Review,2024-10-02 06:35:42,2024-10-01 17:30:42
+PROJ-1164,Task,Medium,dave,frontend,QA,2024-10-05 16:53:19,2024-10-01 17:30:42
+PROJ-1164,Task,Medium,dave,frontend,Done,2024-10-06 01:39:17,2024-10-01 17:30:42
+PROJ-1165,Story,Medium,carol,frontend,Backlog,2024-10-25 17:41:07,2024-10-25 17:41:07
+PROJ-1165,Story,Medium,carol,frontend,In Progress,2024-10-25 22:12:24,2024-10-25 17:41:07
+PROJ-1165,Story,Medium,carol,frontend,Code Review,2024-10-28 05:52:52,2024-10-25 17:41:07
+PROJ-1165,Story,Medium,carol,frontend,QA,2024-10-29 06:29:52,2024-10-25 17:41:07
+PROJ-1165,Story,Medium,carol,frontend,Done,2024-10-29 10:39:51,2024-10-25 17:41:07
+PROJ-1166,Story,Medium,dave,backend,Backlog,2024-10-04 02:47:58,2024-10-04 02:47:58
+PROJ-1166,Story,Medium,dave,backend,In Progress,2024-10-04 04:39:29,2024-10-04 02:47:58
+PROJ-1166,Story,Medium,dave,backend,Code Review,2024-10-04 10:38:55,2024-10-04 02:47:58
+PROJ-1166,Story,Medium,dave,backend,QA,2024-10-05 23:35:14,2024-10-04 02:47:58
+PROJ-1166,Story,Medium,dave,backend,Done,2024-10-06 02:59:18,2024-10-04 02:47:58
+PROJ-1167,Task,Low,carol,infra,Backlog,2024-09-26 09:48:46,2024-09-26 09:48:46
+PROJ-1167,Task,Low,carol,infra,In Progress,2024-09-26 12:27:52,2024-09-26 09:48:46
+PROJ-1167,Task,Low,carol,infra,Code Review,2024-09-26 20:29:31,2024-09-26 09:48:46
+PROJ-1167,Task,Low,carol,infra,QA,2024-09-28 05:37:52,2024-09-26 09:48:46
+PROJ-1167,Task,Low,carol,infra,Done,2024-09-29 01:47:50,2024-09-26 09:48:46
+PROJ-1168,Bug,High,frank,frontend,Backlog,2024-10-02 15:16:48,2024-10-02 15:16:48
+PROJ-1168,Bug,High,frank,frontend,In Progress,2024-10-02 16:56:56,2024-10-02 15:16:48
+PROJ-1168,Bug,High,frank,frontend,Code Review,2024-10-03 05:52:12,2024-10-02 15:16:48
+PROJ-1168,Bug,High,frank,frontend,QA,2024-10-03 22:26:10,2024-10-02 15:16:48
+PROJ-1168,Bug,High,frank,frontend,Done,2024-10-07 02:39:29,2024-10-02 15:16:48
+PROJ-1169,Story,Medium,bob,frontend,Backlog,2024-11-12 17:04:24,2024-11-12 17:04:24
+PROJ-1169,Story,Medium,bob,frontend,In Progress,2024-11-12 19:01:26,2024-11-12 17:04:24
+PROJ-1169,Story,Medium,bob,frontend,Code Review,2024-11-13 05:06:39,2024-11-12 17:04:24
+PROJ-1169,Story,Medium,bob,frontend,QA,2024-11-16 08:53:32,2024-11-12 17:04:24
+PROJ-1169,Story,Medium,bob,frontend,Done,2024-11-17 02:56:31,2024-11-12 17:04:24
+PROJ-1170,Bug,Medium,frank,backend,Backlog,2024-12-05 19:39:33,2024-12-05 19:39:33
+PROJ-1170,Bug,Medium,frank,backend,In Progress,2024-12-06 10:14:54,2024-12-05 19:39:33
+PROJ-1170,Bug,Medium,frank,backend,Code Review,2024-12-06 17:49:39,2024-12-05 19:39:33
+PROJ-1170,Bug,Medium,frank,backend,QA,2024-12-07 03:34:32,2024-12-05 19:39:33
+PROJ-1170,Bug,Medium,frank,backend,Done,2024-12-07 14:24:44,2024-12-05 19:39:33
+PROJ-1171,Story,Medium,carol,backend,Backlog,2024-11-21 20:09:52,2024-11-21 20:09:52
+PROJ-1171,Story,Medium,carol,backend,In Progress,2024-11-22 18:22:03,2024-11-21 20:09:52
+PROJ-1171,Story,Medium,carol,backend,Code Review,2024-11-23 08:07:52,2024-11-21 20:09:52
+PROJ-1171,Story,Medium,carol,backend,QA,2024-11-24 07:05:09,2024-11-21 20:09:52
+PROJ-1171,Story,Medium,carol,backend,Done,2024-11-24 11:42:49,2024-11-21 20:09:52
+PROJ-1172,Bug,Medium,bob,infra,Backlog,2024-09-19 10:07:44,2024-09-19 10:07:44
+PROJ-1172,Bug,Medium,bob,infra,In Progress,2024-09-19 22:52:07,2024-09-19 10:07:44
+PROJ-1172,Bug,Medium,bob,infra,Code Review,2024-09-20 05:21:13,2024-09-19 10:07:44
+PROJ-1172,Bug,Medium,bob,infra,QA,2024-09-22 00:07:32,2024-09-19 10:07:44
+PROJ-1172,Bug,Medium,bob,infra,Done,2024-09-22 06:33:32,2024-09-19 10:07:44
+PROJ-1173,Task,High,frank,backend,Backlog,2024-09-14 06:57:34,2024-09-14 06:57:34
+PROJ-1173,Task,High,frank,backend,In Progress,2024-09-14 13:37:38,2024-09-14 06:57:34
+PROJ-1173,Task,High,frank,backend,Code Review,2024-09-14 20:57:31,2024-09-14 06:57:34
+PROJ-1173,Task,High,frank,backend,QA,2024-09-15 05:23:54,2024-09-14 06:57:34
+PROJ-1173,Task,High,frank,backend,Done,2024-09-15 14:56:38,2024-09-14 06:57:34
+PROJ-1174,Task,High,alice,backend,Backlog,2024-09-30 08:43:39,2024-09-30 08:43:39
+PROJ-1174,Task,High,alice,backend,In Progress,2024-09-30 12:27:07,2024-09-30 08:43:39
+PROJ-1174,Task,High,alice,backend,Code Review,2024-10-01 02:53:50,2024-09-30 08:43:39
+PROJ-1174,Task,High,alice,backend,QA,2024-10-01 12:15:02,2024-09-30 08:43:39
+PROJ-1174,Task,High,alice,backend,Done,2024-10-01 19:29:58,2024-09-30 08:43:39
+PROJ-1175,Story,Medium,frank,frontend,Backlog,2024-09-11 23:02:47,2024-09-11 23:02:47
+PROJ-1175,Story,Medium,frank,frontend,In Progress,2024-09-12 06:07:50,2024-09-11 23:02:47
+PROJ-1175,Story,Medium,frank,frontend,Code Review,2024-09-12 10:46:09,2024-09-11 23:02:47
+PROJ-1175,Story,Medium,frank,frontend,QA,2024-09-13 00:58:37,2024-09-11 23:02:47
+PROJ-1175,Story,Medium,frank,frontend,Done,2024-09-16 01:04:37,2024-09-11 23:02:47
+PROJ-1176,Story,Medium,dave,frontend,Backlog,2024-10-14 18:22:00,2024-10-14 18:22:00
+PROJ-1176,Story,Medium,dave,frontend,In Progress,2024-10-14 19:53:25,2024-10-14 18:22:00
+PROJ-1176,Story,Medium,dave,frontend,Code Review,2024-10-17 07:06:17,2024-10-14 18:22:00
+PROJ-1176,Story,Medium,dave,frontend,QA,2024-10-19 02:27:09,2024-10-14 18:22:00
+PROJ-1176,Story,Medium,dave,frontend,Done,2024-10-19 17:43:59,2024-10-14 18:22:00
+PROJ-1177,Task,Medium,alice,infra,Backlog,2024-12-02 08:50:13,2024-12-02 08:50:13
+PROJ-1177,Task,Medium,alice,infra,In Progress,2024-12-02 12:11:16,2024-12-02 08:50:13
+PROJ-1177,Task,Medium,alice,infra,Code Review,2024-12-03 05:55:03,2024-12-02 08:50:13
+PROJ-1177,Task,Medium,alice,infra,QA,2024-12-07 02:27:53,2024-12-02 08:50:13
+PROJ-1177,Task,Medium,alice,infra,Done,2024-12-07 11:42:30,2024-12-02 08:50:13
+PROJ-1178,Bug,High,alice,frontend,Backlog,2024-10-19 17:51:09,2024-10-19 17:51:09
+PROJ-1178,Bug,High,alice,frontend,In Progress,2024-10-19 23:57:19,2024-10-19 17:51:09
+PROJ-1178,Bug,High,alice,frontend,Code Review,2024-10-20 10:19:28,2024-10-19 17:51:09
+PROJ-1178,Bug,High,alice,frontend,QA,2024-10-21 00:54:19,2024-10-19 17:51:09
+PROJ-1178,Bug,High,alice,frontend,Done,2024-10-22 00:07:32,2024-10-19 17:51:09
+PROJ-1179,Story,Medium,frank,backend,Backlog,2024-09-16 17:32:58,2024-09-16 17:32:58
+PROJ-1179,Story,Medium,frank,backend,In Progress,2024-09-17 08:45:15,2024-09-16 17:32:58
+PROJ-1179,Story,Medium,frank,backend,Code Review,2024-09-19 04:59:32,2024-09-16 17:32:58
+PROJ-1179,Story,Medium,frank,backend,QA,2024-09-19 13:38:49,2024-09-16 17:32:58
+PROJ-1179,Story,Medium,frank,backend,Done,2024-09-20 02:08:50,2024-09-16 17:32:58
